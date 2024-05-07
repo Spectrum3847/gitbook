@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
-  * [2024 Ultraviolet](page/2024-ultraviolet.md)
+* [Spectrum3847 Home](README.md)
+  * [2024 Ultraviolet](spectrum3847-home/2024-ultraviolet.md)
