@@ -13,3 +13,9 @@
 <figure><img src="../.gitbook/assets/2023 X-Ray Robot.PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/2023 Team Photo.jpg" alt=""><figcaption></figcaption></figure>
+
+## Photon 8515
+
+* [Events and Records](https://www.thebluealliance.com/team/8515/2023)
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
