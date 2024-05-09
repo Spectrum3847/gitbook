@@ -1,3 +1,4 @@
-# Spectrum3847 Home
+# Seasons
 
-Testing GitBook for Spectrum3847
+* [2024 - Crescendo](seasons/2024-crescendo.md)
+* [2023 - Charged Up](seasons/2023-charged-up.md)

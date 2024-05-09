@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Spectrum3847 Home](README.md)
-  * [2024 Ultraviolet](spectrum3847-home/2024-ultraviolet.md)
+* [Seasons](README.md)
+  * [2024 - Crescendo](seasons/2024-crescendo.md)
+  * [2023 - Charged Up](seasons/2023-charged-up.md)
