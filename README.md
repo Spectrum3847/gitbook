@@ -3,7 +3,7 @@ cover: .gitbook/assets/magazine_thing.png
 coverY: -313.2262051915946
 layout:
   cover:
-    visible: true
+    visible: false
     size: full
   title:
     visible: false
