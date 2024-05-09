@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/magazine_thing.png
-coverY: -193.30531520395553
+coverY: -313.2262051915946
 ---
 
 # Home
