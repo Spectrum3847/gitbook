@@ -10,7 +10,7 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
@@ -18,6 +18,8 @@ layout:
 ---
 
 # Home
+
+
 
 <figure><img src=".gitbook/assets/Spectrum 3847 Logo 2022.svg" alt=""><figcaption></figcaption></figure>
 
