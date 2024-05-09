@@ -1,4 +1,8 @@
-# 2024 - Crescendo
+---
+description: 2024 - Crescendo
+---
+
+# Current Season
 
 ### **Robot Name: Ultraviolet**
 
