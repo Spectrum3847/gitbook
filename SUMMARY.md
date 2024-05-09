@@ -10,4 +10,7 @@
 ***
 
 * [Resources](resources.md)
+* [Texas Robotics Invitational](texas-robotics-invitational/README.md)
+  * [Past TRIs](texas-robotics-invitational/past-tris.md)
+* [About](about.md)
 * [Sponsors](sponsors.md)
