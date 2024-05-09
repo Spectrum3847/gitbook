@@ -1,14 +1,7 @@
----
-description: 2024 - Crescendo
----
+# FRC Seasons
 
-# Current Season
 
-### **Robot Name: Ultraviolet**
 
-* [Events and Records](https://www.thebluealliance.com/team/3847/2024)
-* [Public CAD File](https://2024cad.spectrum3847.org/)
-* [Season Build Blog](https://www.chiefdelphi.com/t/spectrum-3847-build-blog-2024/447471?u=allengregoryiv)
-* [Season Photo Gallery](https://photos.spectrum3847.org/2024-FRC)
+<figure><img src="../.gitbook/assets/3847 Ultraviolet Card Photo.jpg" alt="" width="375"><figcaption><p><a href="seasons.md">2024 - Crecendo</a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/3847 Ultraviolet Card Photo.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023 X-Ray Robot.PNG" alt="" width="375"><figcaption><p><a href="2023-charged-up.md">2023 - Charged </a><a href="2023-charged-up.md">Up</a></p></figcaption></figure>
