@@ -1,4 +1,8 @@
-# Seasons
+---
+cover: .gitbook/assets/magazine_thing.png
+coverY: 0
+---
 
-* [2024 - Crescendo](spectrum3847-home/2024-ultraviolet.md)
-* [2023 - Charged Up](seasons/2023-charged-up.md)
+# Home
+
+<figure><img src=".gitbook/assets/Spectrum 3847 Logo 2022.svg" alt=""><figcaption></figcaption></figure>
