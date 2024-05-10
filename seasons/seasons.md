@@ -1,7 +1,3 @@
----
-description: 2024 - Crescendo
----
-
 # 2024 - Crescendo&#x20;
 
 ## 3847 **Robot Name: Ultraviolet**

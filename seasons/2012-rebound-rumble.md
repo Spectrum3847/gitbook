@@ -1,6 +1,6 @@
-# 2012 Rebound Rumble
+# 2012 - Rebound Rumble
 
-### Robot Name: Ultraviolet <a href="#robot-name-ultraviolet" id="robot-name-ultraviolet"></a>
+## Robot Name: Ultraviolet <a href="#robot-name-ultraviolet" id="robot-name-ultraviolet"></a>
 
 * [Events and Records](https://www.thebluealliance.com/team/3847/2012)
 * [Public CAD File](https://grabcad.com/library/2012-3847-spectrum-1)
