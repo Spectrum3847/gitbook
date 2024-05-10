@@ -1,6 +1,7 @@
 # 2014 - Aerial Assist
 
-* Robot Name: Infrared
+## Robot Name: Infrared
+
 * [Events and Records](https://www.thebluealliance.com/team/3847/2014)
 * Public CAD File
 * [Season Build Blog](http://blog.spectrum3847.org/2014/01/ariel-assist-day-1.html)

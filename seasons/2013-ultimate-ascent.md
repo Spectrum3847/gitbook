@@ -1,6 +1,7 @@
 # 2013 - Ultimate Ascent
 
-* Robot Name: Gamma Ray
+## Robot Name: Gamma Ray
+
 * [Events and Records](https://www.thebluealliance.com/team/3847/2013)
 * [Public CAD File](https://grabcad.com/library/spectrum-2013-frc-robot-1)
 * [Season Build Blog](http://blog.spectrum3847.org/2013/01/spectrum-3847-2013-frc-build-log-its.html)
