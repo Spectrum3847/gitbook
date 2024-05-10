@@ -15,6 +15,6 @@
 * [Code Orange FRC#3476 Manufacturing Training](https://www.google.com/url?q=https://www.chiefdelphi.com/t/team-3476-code-orange-manufacturing-training-part-1/160323\&sa=D\&source=editors\&ust=1715378977496171\&usg=AOvVaw30WdtlySf34XYJXfk1fBrh)
 * [CNC Routers for FRC Robotics (long CD Thread)](https://www.google.com/url?q=https://www.chiefdelphi.com/t/cnc-routers-for-frc-robotics/159465\&sa=D\&source=editors\&ust=1715378977496571\&usg=AOvVaw0YIVF6tbBTojZXs6z2XCds)
 * Machining without CNC
-* [VEX Match Drilling Guide](https://www.google.com/url?q=https://content.vexrobotics.com/vexpro/pdf/217-8000-MDG.pdf\&sa=D\&source=editors\&ust=1715378977497084\&usg=AOvVaw3qHCg6g-4tXtaWrjxijbPu)
-* [FRC#2363 TripleHelix - Bearing Holes with the Drill Press](https://www.google.com/url?q=https://youtu.be/QijnQIwtcTw\&sa=D\&source=editors\&ust=1715378977497449\&usg=AOvVaw3CHG2\_LVl7JqsrkecQom6v)
-* CD Thread: [Making parts by hand. How do you do it?](https://www.google.com/url?q=https://www.chiefdelphi.com/t/making-parts-by-hand-how-do-you-do-it/364903?u%3Dallengregoryiv\&sa=D\&source=editors\&ust=1715378977497992\&usg=AOvVaw0UvoPITBnvoJltSiaym0y1)
+  * [VEX Match Drilling Guide](https://www.google.com/url?q=https://content.vexrobotics.com/vexpro/pdf/217-8000-MDG.pdf\&sa=D\&source=editors\&ust=1715378977497084\&usg=AOvVaw3qHCg6g-4tXtaWrjxijbPu)
+  * [FRC#2363 TripleHelix - Bearing Holes with the Drill Press](https://www.google.com/url?q=https://youtu.be/QijnQIwtcTw\&sa=D\&source=editors\&ust=1715378977497449\&usg=AOvVaw3CHG2\_LVl7JqsrkecQom6v)
+  * CD Thread: [Making parts by hand. How do you do it?](https://www.google.com/url?q=https://www.chiefdelphi.com/t/making-parts-by-hand-how-do-you-do-it/364903?u%3Dallengregoryiv\&sa=D\&source=editors\&ust=1715378977497992\&usg=AOvVaw0UvoPITBnvoJltSiaym0y1)

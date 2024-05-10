@@ -12,7 +12,7 @@
 ### Robot Tech Documents <a href="#h.kisrjusmf1ny" id="h.kisrjusmf1ny"></a>
 
 * [CADCollection.Spectrum3847.org](https://www.google.com/url?q=http://cadcollection.spectrum3847.org\&sa=D\&source=editors\&ust=1715378977498649\&usg=AOvVaw1MZDcGwvND1HWIQQ7I6lHu)
-  * 2nd tab has Tech Dcouments
+  * 2nd tab has Tech Documents
 * FRC#254 Technical Binders
   * [2019 ](https://www.google.com/url?q=https://media.team254.com/resources/Team\_254\_Tech\_Binder\_2019.pdf\&sa=D\&source=editors\&ust=1715378977499291\&usg=AOvVaw3XL3HHLcHgOoJSEm91CJbL) - [2018](https://www.google.com/url?q=https://media.team254.com/2018/07/8fda07af-2018-Techbinder.pdf\&sa=D\&source=editors\&ust=1715378977499553\&usg=AOvVaw0VrLicQcVp945FysCl2B7d) - [2017](https://www.google.com/url?q=https://media.team254.com/2017/09/964207d8-technicalBinder2017.pdf\&sa=D\&source=editors\&ust=1715378977499813\&usg=AOvVaw2ulCCoUwTEBO9IaNkJLu1F) - [2016](https://www.google.com/url?q=https://media.team254.com/2016/05/97d107e6-technicalBinder2016.pdf\&sa=D\&source=editors\&ust=1715378977500076\&usg=AOvVaw28YIgH4xdPJpQ\_nA4b4Lpl) - [2015](https://www.google.com/url?q=https://media.team254.com/resources/Team\_254\_Tech\_Binder\_2015.pdf\&sa=D\&source=editors\&ust=1715378977500341\&usg=AOvVaw16yOwipbNI\_dqQpHDQyIJc)
 * [FRC#125 Nutrons Tech Handbook 2019](https://www.google.com/url?q=https://static1.squarespace.com/static/586e6c73b3db2bba412e767c/t/5cb0a5a9e2c4838f140dba69/1555080635103/2019%2BTechnical%2BHandbook.pdf\&sa=D\&source=editors\&ust=1715378977500809\&usg=AOvVaw3y8Q-Yz0dIUGiA71QZh9jr)
