@@ -1,0 +1,20 @@
+# Tools and Workspace
+
+* [Basic Hand Tools Video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D4o0tqF0jDdo%26list%3DPL404C2C74D09871B3%26index%3D2\&sa=D\&source=editors\&ust=1715378977491309\&usg=AOvVaw1a7gFX4jra8rRBfN2orevL)
+* [General Fasteners Video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DHbGh7TQ0NhA%26list%3DPL404C2C74D09871B3%26index%3D8\&sa=D\&source=editors\&ust=1715378977491703\&usg=AOvVaw2GwJo\_4\_blL20T85KG30d3)
+* [Spectrum FIRST $1000](https://www.google.com/url?q=http://1000.spectrum3847.org/\&sa=D\&source=editors\&ust=1715378977492060\&usg=AOvVaw1vnsBRBACcW0jzMJ8-c4Z\_)
+* [Spectrum FIRST $10,000](https://www.google.com/url?q=http://10000.spectrum3847.org\&sa=D\&source=editors\&ust=1715378977492415\&usg=AOvVaw0ovV-W5uny516weSl\_U0Ed)
+* [MIT Prototype Machining Videos](https://www.google.com/url?q=https://techtv.mit.edu/collections/1d893ef0b7914c18bee54892bff208cd/\&sa=D\&source=editors\&ust=1715378977492878\&usg=AOvVaw0I-AatQJM3llYsO-5eio\_e)
+* [Machine Shop Essentials: Questions and Answers](https://www.google.com/url?q=https://smile.amazon.com/Machine-Shop-Essentials-Questions-Answers/dp/0975996339/ref%3Dsr\_1\_1?ie%3DUTF8%26qid%3D1479782522%26sr%3D8-1%26keywords%3Dmachine%2Bshop%2Bquestions\&sa=D\&source=editors\&ust=1715378977493339\&usg=AOvVaw12V7wgm0\_77pM89Oedx-mV)
+* [Micro Machine Shop](https://www.google.com/url?q=http://www.micro-machine-shop.com/table\_of\_contents.htm\&sa=D\&source=editors\&ust=1715378977493732\&usg=AOvVaw0snYfEg4ev-DUSBW3Mz8WN)
+* [Ed’s Machining Notebook](https://www.google.com/url?q=http://files.andymark.com/Eds\_Notebook\_Machining\_2006.pdf\&sa=D\&source=editors\&ust=1715378977494116\&usg=AOvVaw2Ke6dpdRoiW60pnHhhKqRn)
+* [FRC#469 Parts Organization System](https://www.google.com/url?q=https://www.chiefdelphi.com/media/papers/3343\&sa=D\&source=editors\&ust=1715378977494537\&usg=AOvVaw2fK84oUIstpqVO\_SiuS0YI)
+* [Spectrum What’s in the Box Blog Series](https://www.google.com/url?q=http://blog.spectrum3847.org/search/label/Whats%2520in%2520the%2520Box\&sa=D\&source=editors\&ust=1715378977494949\&usg=AOvVaw2lJJ9w-f8p5rf1kUdJcFE\_)
+* [Measuring Tool Basics Video by HAAS](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1tpyf5o9H20%26list%3DPLP7PdOqmqKAHWXln7qF\_oBftCKurXpL\_4%26index%3D6%26t%3D0s\&sa=D\&source=editors\&ust=1715378977495350\&usg=AOvVaw18D2NHWHfA6JVy7ijsxwKC)
+* [Tapping Essentials Video by HAAS](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbkrUzGooA9k%26list%3DPLP7PdOqmqKAHWXln7qF\_oBftCKurXpL\_4%26index%3D7%26t%3D0s\&sa=D\&source=editors\&ust=1715378977495750\&usg=AOvVaw28NXK5C7QUqVUxgJnDo1O7)
+* [Code Orange FRC#3476 Manufacturing Training](https://www.google.com/url?q=https://www.chiefdelphi.com/t/team-3476-code-orange-manufacturing-training-part-1/160323\&sa=D\&source=editors\&ust=1715378977496171\&usg=AOvVaw30WdtlySf34XYJXfk1fBrh)
+* [CNC Routers for FRC Robotics (long CD Thread)](https://www.google.com/url?q=https://www.chiefdelphi.com/t/cnc-routers-for-frc-robotics/159465\&sa=D\&source=editors\&ust=1715378977496571\&usg=AOvVaw0YIVF6tbBTojZXs6z2XCds)
+* Machining without CNC
+* [VEX Match Drilling Guide](https://www.google.com/url?q=https://content.vexrobotics.com/vexpro/pdf/217-8000-MDG.pdf\&sa=D\&source=editors\&ust=1715378977497084\&usg=AOvVaw3qHCg6g-4tXtaWrjxijbPu)
+* [FRC#2363 TripleHelix - Bearing Holes with the Drill Press](https://www.google.com/url?q=https://youtu.be/QijnQIwtcTw\&sa=D\&source=editors\&ust=1715378977497449\&usg=AOvVaw3CHG2\_LVl7JqsrkecQom6v)
+* CD Thread: [Making parts by hand. How do you do it?](https://www.google.com/url?q=https://www.chiefdelphi.com/t/making-parts-by-hand-how-do-you-do-it/364903?u%3Dallengregoryiv\&sa=D\&source=editors\&ust=1715378977497992\&usg=AOvVaw0UvoPITBnvoJltSiaym0y1)

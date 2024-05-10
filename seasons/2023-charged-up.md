@@ -10,12 +10,12 @@
 * [Season Photo Gallery](https://photos.spectrum3847.org/2023)
 * [Recap Video](https://www.youtube.com/watch?v=-fD8F\_CYtEQ)
 
-<figure><img src="../.gitbook/assets/2023 X-Ray Robot.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023 X-Ray Robot.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2023 Team Photo.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023 Team Photo.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Photon 8515
 
 * [Events and Records](https://www.thebluealliance.com/team/8515/2023)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
