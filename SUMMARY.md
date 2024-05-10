@@ -7,6 +7,8 @@
 * [FRC Seasons](seasons/README.md)
   * [2024 - Crescendo ](seasons/seasons.md)
   * [2023 - Charged Up](seasons/2023-charged-up.md)
+  * [2014 - Aerial Assist](seasons/2014-aerial-assist.md)
+  * [2013 - Ultimate Ascent](seasons/2013-ultimate-ascent.md)
   * [2012 - Rebound Rumble](seasons/2012-rebound-rumble.md)
 * [Resources](resources.md)
 * [Texas Robotics Invitational](texas-robotics-invitational/README.md)
