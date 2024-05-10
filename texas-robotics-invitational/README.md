@@ -23,3 +23,7 @@ Strake Jesuit College Preparatory Gymnasiums: [8900 Bellaire Blvd, Houston, TX, 
 Twitter: [@TRIrobots](https://twitter.com/TRIrobots) - Facebook: [Texas Robotics Invitational](https://www.facebook.com/TRIrobots) &#x20;
 
 Email: [TRI@spectrum3847.org](mailto:TRI@spectrum3847.org)
+
+## Want to Spoinsor TRI?
+
+[**TRI Sponsorship Form**](https://docs.google.com/forms/d/e/1FAIpQLSdLarTabTZivQj\_ogukGis9Ax3AGNmNlqpDbm\_YO3z0J29DOQ/viewform)**: Want to become a Texas Robotics Invitational Sponsor? Let us know by filling out this form.**
