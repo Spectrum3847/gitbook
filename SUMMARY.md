@@ -23,6 +23,6 @@
     * [Mechanical](resources/reccomended-reading/mechanical.md)
     * [Controls](resources/reccomended-reading/controls.md)
     * [CAD\OnShape](resources/reccomended-reading/cad-onshape.md)
+    * [Tools and Workspace](resources/reccomended-reading/tools-and-workspace.md)
 * [Texas Robotics Invitational](texas-robotics-invitational/README.md)
   * [Past TRIs](texas-robotics-invitational/past-tris.md)
-* [Tools and Workspace](tools-and-workspace.md)
