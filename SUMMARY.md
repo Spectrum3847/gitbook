@@ -25,5 +25,7 @@
     * [CAD\OnShape](resources/reccomended-reading/cad-onshape.md)
     * [Controls](resources/reccomended-reading/controls.md)
     * [Tools and Workspace](resources/reccomended-reading/tools-and-workspace.md)
+    * [Branding/Media](resources/reccomended-reading/branding-media.md)
+    * [Team Organization](resources/reccomended-reading/team-organization.md)
 * [Texas Robotics Invitational](texas-robotics-invitational/README.md)
   * [Past TRIs](texas-robotics-invitational/past-tris.md)

@@ -12,3 +12,5 @@
 <figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="467"><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?v=W6UYFKNGHJ8" %}
