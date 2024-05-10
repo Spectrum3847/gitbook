@@ -14,4 +14,6 @@
 * [Events and Records](https://www.thebluealliance.com/team/8515/2024)
 * [Public CAD File](https://cad.onshape.com/documents/b6dec321d434a78b0c8b1f4a/w/e95933a4dd5ad878cfc66b01/e/859bb1936bab88d5ad4c5333)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?v=9keeDyFxzY4" %}

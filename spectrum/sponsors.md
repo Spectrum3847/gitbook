@@ -2,7 +2,7 @@
 
 ## Principal Sponsors
 
-## [![](https://spectrum3847.smugmug.com/Brand/Sponsor-Logos/i-TjMn7nm/0/S/St.%20Agnes%20Academy%20Logo-S.png)](http://st-agnes.org/)             ![](<../.gitbook/assets/image (1) (1) (1).png>)
+## [![](https://spectrum3847.smugmug.com/Brand/Sponsor-Logos/i-TjMn7nm/0/S/St.%20Agnes%20Academy%20Logo-S.png)](http://st-agnes.org/)             ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 Sponsors[\
 ![](https://spectrum3847.smugmug.com/Brand/Sponsor-Logos/i-nJfq9ss/0/S/Solarcraft%20Logo-S.png)](http://solarcraft.net/)

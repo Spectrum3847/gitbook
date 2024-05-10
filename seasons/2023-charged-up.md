@@ -18,4 +18,6 @@
 
 * [Events and Records](https://www.thebluealliance.com/team/8515/2023)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?v=0zpflsYc4PA" %}
