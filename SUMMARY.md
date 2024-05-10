@@ -7,6 +7,7 @@
 * [FRC Seasons](seasons/README.md)
   * [2024 - Crescendo ](seasons/seasons.md)
   * [2023 - Charged Up](seasons/2023-charged-up.md)
+  * [2021 - Infinite Recharge](seasons/2021-infinite-recharge.md)
   * [2020 - Infinite Recharge](seasons/2020-infinite-recharge.md)
   * [2019 - Destination: Deep Space](seasons/2019-destination-deep-space.md)
   * [2018 - Power Up](seasons/2018-power-up.md)

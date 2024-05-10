@@ -10,6 +10,6 @@
 * [Season Photo Gallery](https://photos.spectrum3847.org/2012-FRC)
 * [Robot Design Review](https://youtu.be/ZLigFMn2eyk)
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="504"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="504"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="448"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="448"><figcaption></figcaption></figure>
