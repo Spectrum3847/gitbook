@@ -6,6 +6,8 @@ Texas Robotics Invitational (TRI) is an off-season event in Houston, Texas desig
 
 ## 2024 Texas Robotics Invitational
 
+[Team and Volunteer Applications](https://www.chiefdelphi.com/t/2024-texas-robotics-invitational-tri-june-27th-28th-29th/464548?u=allengregoryiv)
+
 ### **Dates:**
 
 * **Setup and Load-in: Thursday, June 27th**&#x20;
