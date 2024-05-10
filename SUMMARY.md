@@ -18,6 +18,7 @@
   * [2013 - Ultimate Ascent](seasons/2013-ultimate-ascent.md)
   * [2012 - Rebound Rumble](seasons/2012-rebound-rumble.md)
 * [Resources](resources/README.md)
+  * [Spectrum Resources](resources/spectrum-resources.md)
   * [Reccomended Reading](resources/reccomended-reading/README.md)
     * [Mechanical](resources/reccomended-reading/mechanical.md)
     * [Controls](resources/reccomended-reading/controls.md)
