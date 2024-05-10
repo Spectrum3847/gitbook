@@ -10,17 +10,19 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: false
   pagination:
     visible: false
 ---
 
-# Home
+# Spectrum
 
 
 
-<figure><img src=".gitbook/assets/Spectrum 3847 Logo 2022.svg" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true">
 
-##
+<figure><img src=".gitbook/assets/Spectrum Wallpaper 16.png" alt=""><figcaption></figcaption></figure>
+
+</div>
