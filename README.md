@@ -19,10 +19,4 @@ layout:
 
 # Spectrum
 
-
-
-<div data-full-width="true">
-
-<figure><img src=".gitbook/assets/Spectrum Wallpaper 16.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src=".gitbook/assets/Home Page Graphic.png" alt=""><figcaption></figcaption></figure>
