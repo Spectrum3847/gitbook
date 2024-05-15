@@ -30,3 +30,6 @@
     * [Team Organization](resources/recommended-reading/team-organization.md)
 * [Texas Robotics Invitational](texas-robotics-invitational/README.md)
   * [Past TRIs](texas-robotics-invitational/past-tris.md)
+* [Blog](https://blog.spectrum3847.org/)
+* [Photo Gallery](https://photos.spectrum3847.org/)
+* [YouTube](https://www.youtube.com/spectrum3847)
