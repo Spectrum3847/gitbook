@@ -12,7 +12,7 @@
 
 <figure><img src="../.gitbook/assets/image (23).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@
 
 * [Events and Records](https://www.thebluealliance.com/team/8515/2022)
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt="" width="450"><figcaption></figcaption></figure>
 
 
 
