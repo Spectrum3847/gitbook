@@ -10,9 +10,9 @@
 * [Recap Video](https://www.youtube.com/watch?v=mGJFiRevNzU)
 * [Robot Design Review](https://www.youtube.com/watch?v=z\_\_6\_5ReB0M)
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@
 
 * [Events and Records](https://www.thebluealliance.com/team/8515/2022)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="450"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="450"><figcaption></figcaption></figure>
 
 
 

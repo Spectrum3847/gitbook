@@ -9,7 +9,7 @@
 * [Season Photo Gallery](https://photos.spectrum3847.org/2015-Competitions)
 * [Robot Design Review](https://youtu.be/ZGMysTXZK94)
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="467"><figcaption></figcaption></figure>
 

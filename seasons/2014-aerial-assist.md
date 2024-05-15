@@ -11,8 +11,8 @@
 * [Recap Video](https://youtu.be/izGUItAbqUw)
 * [Robot Design Review](https://youtu.be/nsfsSpBtlAg)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=f5zWzICG5to" %}

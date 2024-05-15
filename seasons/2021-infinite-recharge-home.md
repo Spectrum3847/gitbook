@@ -9,9 +9,9 @@
 * Chairman’s [Essay](https://drive.google.com/file/d/1kYd-llgQaFqdWOwqPQNL8I\_zvUaVDriX/view?usp=share\_link)
 * [Season Photo Gallery](https://photos.spectrum3847.org/2021-FRC/Gamma-Ray-2021)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="419"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt="" width="419"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=I77Dz9pfds4" %}
 

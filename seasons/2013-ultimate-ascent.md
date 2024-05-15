@@ -9,10 +9,10 @@
 * Chairman’s [Essay](https://drive.google.com/file/d/1RxE3KZTUeg25hoS3dVmgAFst3RaTG-me/view?usp=sharing)
 * [Robot Design Review](https://youtu.be/a8gVu7j571E)
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=wa5MGEZNrf0" %}
