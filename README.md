@@ -21,6 +21,6 @@ layout:
 
 <div data-full-width="true">
 
-<figure><img src=".gitbook/assets/Home Page Graphic (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Home Page Graphic (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
