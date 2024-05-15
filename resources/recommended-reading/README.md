@@ -1,4 +1,4 @@
-# Reccomended Reading
+# Other Team's Resources
 
 ## Resource Collections/Workshops <a href="#h.ilfpt3koo5ik" id="h.ilfpt3koo5ik"></a>
 
