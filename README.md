@@ -19,7 +19,7 @@ layout:
 
 # Spectrum
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <figure><img src=".gitbook/assets/Home Page Graphic (2).png" alt=""><figcaption></figcaption></figure>
 
