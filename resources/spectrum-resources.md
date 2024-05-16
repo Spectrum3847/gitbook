@@ -27,7 +27,7 @@
 * [Spectrum What’s in the Box Blog Series](http://blog.spectrum3847.org/search/label/Whats%20in%20the%20Box)
 * [Spectrum FRC Powder Coating Guide](https://drive.google.com/file/d/1qlL7w055oCCFMaH81cnm-PkvxW\_cHnZl/view)
 * [Spectrum Recommended Software](https://docs.google.com/document/d/1rFbJ\_3\_a-LQremD6qiNhzQuVt3GOmgMwTLvW2EoZpBs/edit)
-* Spectrum Do’s and Don’ts Presentation - [Video](https://youtu.be/2q8iGo5i3Jc) - [Slides](https://rb.gy/vsawem)
+* Spectrum Do’s and Don’ts Presentation - [Video ](https://youtu.be/2q8iGo5i3Jc)- [Slides](https://rb.gy/vsawem)
 * Spectrum Chairman’s Award - [Public Shared Folder](https://drive.google.com/drive/folders/18lWl3J-P-PaTn48UbH-PB7NLAKZCdrnn?usp=sharing)
 * Brand Standard - [Brand.Spectrum3847.org](http://brand.spectrum3847.org)
 * [Social Media #BestPractices Video ](https://www.youtube.com/watch?v=wjNdxE-cdrY\&index=19\&list=PLIY-TB1MAu-X9ZcNqt-ot6\_JM2Z02zZ6L)
