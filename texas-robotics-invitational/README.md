@@ -20,7 +20,7 @@ Strake Jesuit College Preparatory Gymnasiums: [8900 Bellaire Blvd, Houston, TX, 
 
 ## Contact:
 
-Twitter: [@TRIrobots](https://twitter.com/TRIrobots) - Facebook: [Texas Robotics Invitational](https://www.facebook.com/TRIrobots) &#x20;
+Facebook: [Texas Robotics Invitational](https://www.facebook.com/TRIrobots)  - X: [@TRIrobots](https://twitter.com/TRIrobots) -&#x20;
 
 Email: [TRI@spectrum3847.org](mailto:TRI@spectrum3847.org)
 
