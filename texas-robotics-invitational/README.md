@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/Logo no TRI 2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Texas Robotics Invitational (TRI) is an off-season event in Houston, Texas designed to more experience in FRC. TRI is planned and organized by Spectrum FRC#3847 with the help of Houston area teams, and volunteers.
+Texas Robotics Invitational (TRI) is an off-season event in Houston, Texas designed to provide more experience in FRC. TRI is planned and organized by Spectrum FRC#3847 with the help of Houston area teams, and volunteers.
 
 ## 2024 Texas Robotics Invitational
 
