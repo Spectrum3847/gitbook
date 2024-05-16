@@ -10,7 +10,7 @@ The students met to discuss the future of such a program individually and began 
 
 Spectrum’s mission is to create and cultivate opportunities in which students are able to grow mentally and realize their true potential. Our students develop life skills through the promotion of premier qualities, such as amity, volunteerism, dedication, and ebullience. As an engineering team, we believe that every team member has a special place in the process and creation of our robots. We endorse team unity and bonding through integrity, confidence, and chivalry. Our team deepens the bonds between students by allowing them to interact in a safe and nurturing environment that promotes an exploration of ingenuity. We hope to facilitate a love of individuality through the appreciation of the students' varying abilities and qualities.
 
-
+{% embed url="https://www.youtube.com/watch?v=Vmq6KSDosEE" %}
 
 ## [St. Agnes Academy](http://st-agnes.org/)
 
