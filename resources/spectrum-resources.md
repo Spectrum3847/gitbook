@@ -3,7 +3,7 @@
 * Spectrum Training Curriculum - [Training.Spectrum3847.org](http://training.spectrum3847.org)
 * Guide to the FRC MCC - (Minimum Competitive Concept) - [mcc.Spectrum3847.org](http://mcc.spectrum3847.org)
 * [Suggested FIRST Robotics Competition Items Document](https://docs.google.com/document/d/19GsJ8shaTC\_MGULpALavXE1eWEpgQVkcE2KJYQsU3uU/edit#heading=h.d5xd6o1s8ay8)
-* [Suggested FRC Purchase Lists](https://docs.google.com/spreadsheets/d/1YphlEjvd\_iZDxfXlK5U4N8X3P6jiRBvNsinzWJ3GT6w/edit#gid=0) - Each tab is different combinations of vendors
+* [Suggested FRC Purchase Lists](https://docs.google.com/spreadsheets/d/1YphlEjvd\_iZDxfXlK5U4N8X3P6jiRBvNsinzWJ3GT6w/edit#gid=0) - Each tab has different combinations of vendors
 * Illuminations 2022 FRC Young/Rookie Team Guide - [Illuminations.Spectrum3847.org](http://illuminations.spectrum3847.org)
 * Spectrum Solidworks CAD Library - [cad.spectrum3847.org](http://cad.spectrum3847.org) (No Longer Maintained)
 * [FRC CAD Collection](https://blog.spectrum3847.org/2019/12/frc-cad-collection.html) - [cadcollection.spectrum3847.org](http://cadcollection.spectrum3847.org) - [submission form](https://forms.gle/5wji6FbuZWPc4Fzn6) - [CD post](https://www.chiefdelphi.com/t/frc-cad-collection-spectrum-3847/367957)
@@ -21,8 +21,7 @@
 * Spectrum Advanced Pneumatics Guide - [pneumatics.Spectrum3847.org](http://pneumatics.spectrum3847.org)
 * Spectrum FRC Electrical Guide - [electrical.spectrum3847.org](http://electrical.spectrum3847.org)
 * FRC Maintenance Guide - [maintenance.spectrum3847.org](http://maintenance.spectrum3847.org)
-* Photon - [photon.Spectrum3847.org](http://photon.spectrum3847.org)
-* Spectrum Sample Tool Lists - 2000.spectrum3847.org -  [1000.spectrum3847.org](http://1000.spectrum3847.org) - [10000.spectrum3847.org](http://10000.spectrum3847.org)
+* Spectrum Sample Tool Lists - [2000.spectrum3847.org](http://2000.spectrum3847.org) -  [1000.spectrum3847.org](http://1000.spectrum3847.org) - [10000.spectrum3847.org](http://10000.spectrum3847.org)
 * [Spectrum FIRST Choice and Virtual Kit of Parts Guide 2023](https://docs.google.com/document/d/1ppeGxqJyxXeH3HQ8km097i95OJ1rtyzc\_6igW3fDiuc/edit) - [2022](https://docs.google.com/document/d/1\_b5DUsNKJJdW8E\_d9pNcwwF92dOXOIl3xHfKK7hp0J8/)/[2019](https://docs.google.com/document/d/e/2PACX-1vQXPD4AkhAMSYcCnw3NPy2vlHu68dlECGwoEwewFORmb6Kq2hzTT6oHhbaDW-\_ieNh7y\_3grglcyHZa/pub)
 * [Spectrum What’s in the Box Blog Series](http://blog.spectrum3847.org/search/label/Whats%20in%20the%20Box)
 * [Spectrum FRC Powder Coating Guide](https://drive.google.com/file/d/1qlL7w055oCCFMaH81cnm-PkvxW\_cHnZl/view)
