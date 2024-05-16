@@ -2,7 +2,7 @@
 
 ## F - FRC & Spectrum - [Video](https://www.youtube.com/watch?v=rjeiDWgCydI)
 
-#### F1.1 - What is FRC? - [Slides](https://docs.google.com/presentation/d/1HGakEB6jhE4WON5OCA4wB5tr2pTyJo5cIO3TNS4YmfQ/edit)
+F1.1 - What is FRC? - [Slides](https://docs.google.com/presentation/d/1HGakEB6jhE4WON5OCA4wB5tr2pTyJo5cIO3TNS4YmfQ/edit)
 
 F1.2 - What do team members do? - [Slides](https://docs.google.com/presentation/d/18Fr4QmS6rOxqoddjLKZGzSCux0cxKXEHT2bzUbY-9hg/)
 
@@ -47,7 +47,7 @@ C2.6 Programming Practices - [Slides](https://docs.google.com/presentation/d/1AM
 
 C3.2 Exploring 2022 WPILib and Spectrum Updates - [Video ](https://www.youtube.com/watch?v=CCiOoHpfxXw)- [Slides](https://docs.google.com/presentation/d/1HG5vgwA8xmI0iGiXgUEhSGlZJWood4hYxrd0lJ1xsK4/edit#slide=id.p)
 
-Control System Self Learning Resources - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRHr-x-fhnJnbZ7q4K80c38rtMfHDTwm3UvciZYSkiM94\_AkSqWoaITi3WwRi3-mlYCrNV67p\_Oa4Vf/pub?start=false\&loop=false\&delayms=3000)
+Control System Self-Learning Resources - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRHr-x-fhnJnbZ7q4K80c38rtMfHDTwm3UvciZYSkiM94\_AkSqWoaITi3WwRi3-mlYCrNV67p\_Oa4Vf/pub?start=false\&loop=false\&delayms=3000)
 
 \
 
