@@ -13,4 +13,4 @@ Photon is the training team for Spectrum 3847. Photon is run as a subset of Spec
 
 Photon is providing a model for other teams to serve their communities better. Expanding our school's engineering and robotics program to include an FRC team just for first-year students has broadened our impact. It has allowed us to prepare our students better to help other new teams who are building similar robots based on the Everybot design and work with them to have more successful seasons.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Photon (1).png" alt=""><figcaption></figcaption></figure>
