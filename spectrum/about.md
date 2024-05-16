@@ -22,4 +22,4 @@ Founded in 1905, St. Agnes Academy is an all-girls school Cathlotic college prep
 
 Strake Jesuit College Preparatory was founded in 1960 as Jesuit Catholic preparatory school. The Strake Jesuit Engineering team was founded in the fall of the 2007.  The team has competed in: 2008-2011—Boosting Engineering, Science, and Technology (BEST), 2009-The Junior Engineering Technical Society (JETS), and 2010-2011-VEX Robotics
 
-**Address:** [**8900 Bellaire Blvd, Houston, TX, 7703**](https://goo.gl/maps/Tw2AFgn79G52)
+**Address:** [**8900 Bellaire Blvd, Houston, TX, 77036**](https://goo.gl/maps/Tw2AFgn79G52)
