@@ -30,6 +30,7 @@
     * [Team Organization](resources/recommended-reading/team-organization.md)
 * [Texas Robotics Invitational](texas-robotics-invitational/README.md)
   * [Past TRIs](texas-robotics-invitational/past-tris.md)
+  * [2024 TRI Rule Changes](texas-robotics-invitational/2024-tri-rule-changes.md)
 * [Social Media](social-media.md)
 * [Blog](https://blog.spectrum3847.org/)
 * [Photo Gallery](https://photos.spectrum3847.org/)
