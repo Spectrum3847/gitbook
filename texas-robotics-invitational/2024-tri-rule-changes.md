@@ -50,7 +50,7 @@ Clothes and shoes are okay, and backpacks and items in your pockets or backpacks
 Violation: MATCH will not start until the situation is remedied. If discovered or used inappropriately during a MATCH , YELLOW CARD .
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 Almost everyone has a phone in their pocket or bag and wears clothing, so it should be against the rules. You still can’t use your phone or radio to communicate with anyone during the match or any of the other violations, but it’s just weird that it’s not clear in the rules that it’s allowed.&#x20;
 {% endhint %}
 
