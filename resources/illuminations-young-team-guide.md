@@ -94,7 +94,7 @@ Motion
 
 Drivetrain / Swerve
 
-* You should be figuring out a plan to get your team to use swerve modules.
+* You should be figuring out a plan to get your team to use swerve modules. Look at our[ Swerve Guide](swerve-guide.md) for help
 * If you aren’t moving to swerve this year, you should be using the kit drive base upgraded motors that will go to swerve in future years.
 * There is no good reason to build a custom non-swerve drive-train anymore.
 
