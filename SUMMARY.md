@@ -19,6 +19,7 @@
   * [2013 - Ultimate Ascent](seasons/2013-ultimate-ascent.md)
   * [2012 - Rebound Rumble](seasons/2012-rebound-rumble.md)
 * [Resources](resources/README.md)
+  * [Illuminations: Young Team Guide](resources/illuminations-young-team-guide.md)
   * [Spectrum Resources](resources/spectrum-resources.md)
   * [Training](resources/training.md)
   * [Other Team's Resources](resources/recommended-reading/README.md)
