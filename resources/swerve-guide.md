@@ -26,7 +26,7 @@ There are 4 vendors of modules
   * ThriftySwerve 2.0 (includes steering encoder)
 * [West Coast Products](https://wcproducts.com/collections/gearboxes/Swerve)
   * Swerve X2, X2t, X2i, X2S\*, X2Si\*  (\*includes steering encoder)
-* All of the posted options are good quality. We recommend using a module that allows the same motors for drive and steering. (SDS, WCP X2, or ThriftySwerve)
+* All of the posted options are good quality.
 * An SDS module can be purchased with the Drive Base Opt Voucher from AndyMark
 
 Gyro
