@@ -48,7 +48,7 @@ Electronics
 * [FRC Electronics Guide](https://docs.wpilib.org/en/latest/docs/controls-overviews/control-system-hardware.html)
 * Connectors
   * [WAGO 221 Lever Nuts](https://www.revrobotics.com/rev-15-2491/) are the most useful connectors for motors
-    * [Inline 2 slot lever nuts](http://wcp-0486) work great for CAN and sensors
+  * [Inline 2 slot lever nuts](http://wcp-0486) work great for CAN and sensors
 * Wire
   * Use 12 AWG wires for motors
   * Use 18 AWG wires for most low-current things
