@@ -1,13 +1,13 @@
 # Swerve Guide
 
-Recommended Software
+## Recommended Software
 
 * [YAGSL (Yet Another Generic Swerve Library)](https://www.chiefdelphi.com/t/yet-another-generic-swerve-library-yagsl-v1-release/450844)&#x20;
   * Works will all modules, motors, gyros, etc.
 * Or [CTRE Swerve](https://v6.docs.ctr-electronics.com/en/latest/docs/tuner/tuner-swerve/index.html)&#x20;
   * Only works if you are using exclusively CTRE motors, encoders and gyro
 
-Swerve Requirements
+## Swerve Requirements
 
 * 4 Modules = $280 to $365 each
 * 4 Steering Encoders (May be included with module) = $30 to $90 each
@@ -16,7 +16,7 @@ Swerve Requirements
 * 1 Gyro = $90 to $200 each
 * Total: \~$2300 to \~$3600
 
-There are 4 vendors of modules
+### There are 4 vendors of modules
 
 * [REV Swerve](https://www.revrobotics.com/rev-21-3005/)
   * 3in MAXSwerve (includes steering encoder)
@@ -29,7 +29,7 @@ There are 4 vendors of modules
 * All of the posted options are good quality.
 * An SDS module can be purchased with the Drive Base Opt Voucher from AndyMark
 
-Gyro
+### Gyro
 
 * CTRE
   * [Pigeon 2.0](https://newsite.ctr-electronics.com/products/pigeon-2)
@@ -38,7 +38,7 @@ Gyro
 * Redux Robotics
   * [BORON Canandgyro](https://shop.reduxrobotics.com/boron-canandgyro/)
 
-Steering Encoders
+### Steering Encoders
 
 * Each module allows for a certain set of encoders to work with them.
 * CTRE
@@ -49,3 +49,11 @@ Steering Encoders
   * [Thrifty Absolute Magnetic Encoder](https://www.thethriftybot.com/products/thrifty-absolute-magnetic-encoder)
 * Redux Robotics
   * [HELIUM Canandmag](https://shop.reduxrobotics.com/helium-canandmag/)
+
+## Other Things to consider
+
+* Steering Encoder Zeroing
+* Module Protection (motors, encoders, etc)
+* Coordinate Systems
+* Spare Parts
+* Programming Control Layout and Features
