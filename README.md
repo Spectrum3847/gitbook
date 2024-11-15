@@ -27,4 +27,4 @@ layout:
 
 
 
-{% embed url="https://www.youtube.com/watch?v=btAfpF1Ns-8" %}
+{% embed url="https://photos.smugmug.com/Projects/Promo-Videos/i-LHhDcCc/0/LW2ZfNbnFjdL3L2sSzs8qdHxSwbhdFV6gCDrVXkqr/1920/Spectrum%20Promo%20Video-1920.mp4" %}
