@@ -21,6 +21,7 @@
 * [Resources](resources/README.md)
   * [Illuminations: Young Team Guide](resources/illuminations-young-team-guide.md)
   * [Swerve Guide](resources/swerve-guide.md)
+  * [Spectrum Cart 2.0](resources/spectrum-cart-2.0.md)
   * [Spectrum Resources](resources/spectrum-resources.md)
   * [Training](resources/training.md)
   * [Other Team's Resources](resources/recommended-reading/README.md)
