@@ -24,3 +24,7 @@ layout:
 <figure><img src=".gitbook/assets/Home Page Graphic (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+
+
+{% embed url="https://www.youtube.com/watch?v=btAfpF1Ns-8" %}
