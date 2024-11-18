@@ -70,6 +70,6 @@ Facebook: [Texas Robotics Invitational](https://www.facebook.com/TRIrobots)  - X
 
 Email: [TRI@spectrum3847.org](mailto:TRI@spectrum3847.org)
 
-## Want to Spoinsor TRI?
+## Want to Sponsor TRI?
 
 [**TRI Sponsorship Form**](https://docs.google.com/forms/d/e/1FAIpQLSdLarTabTZivQj\_ogukGis9Ax3AGNmNlqpDbm\_YO3z0J29DOQ/viewform)**: Want to become a Texas Robotics Invitational Sponsor? Let us know by filling out this form.**
