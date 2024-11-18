@@ -14,12 +14,12 @@ Spectrum’s mission is to create and cultivate opportunities in which students 
 
 ## [St. Agnes Academy](http://st-agnes.org/)
 
-Founded in 1905, St. Agnes Academy is an all-girls school Cathlotic college preparatory school dedicated to producing young women with intellectual curiosity, who work for social justice and who act with integrity and compassion in the Dominican tradition. The St. Agnes engineering was founded in 1996, competing in the following competitions: 1996—National Engineering Design Challenge, 1997—Texas Experimental Aeronautics Solution (TExAS), 1998-2000—Texas Engineering Challenge, and 2001-2011 - Boosting Engineering, Science, and Technology (BEST)&#x20;
+Founded in 1905, St. Agnes Academy is an all-girls school Catholic college preparatory school dedicated to producing young women with intellectual curiosity, who work for social justice and who act with integrity and compassion in the Dominican tradition. The St. Agnes engineering was founded in 1996, competing in the following competitions: 1996—National Engineering Design Challenge, 1997—Texas Experimental Aeronautics Solution (TExAS), 1998-2000—Texas Engineering Challenge, and 2001-2011 - Boosting Engineering, Science, and Technology (BEST).
 
 **Address:** [**9000 Bellaire Blvd, Houston, TX, 77036**](https://goo.gl/maps/PRL1hUM8Ugx)
 
 ## [Strake Jesuit College Preparatory](http://www.strakejesuit.org/)
 
-Strake Jesuit College Preparatory was founded in 1960 as Jesuit Catholic preparatory school. The Strake Jesuit Engineering team was founded in the fall of the 2007.  The team has competed in: 2008-2011—Boosting Engineering, Science, and Technology (BEST), 2009-The Junior Engineering Technical Society (JETS), and 2010-2011-VEX Robotics
+Strake Jesuit College Preparatory was founded in 1960 as Jesuit Catholic preparatory school. The Strake Jesuit Engineering team was founded in the fall of the 2007.  The team has competed in: 2008-2011—Boosting Engineering, Science, and Technology (BEST), 2009-The Junior Engineering Technical Society (JETS), and 2010-2011-VEX Robotics.
 
 **Address:** [**8900 Bellaire Blvd, Houston, TX, 77036**](https://goo.gl/maps/Tw2AFgn79G52)
