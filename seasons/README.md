@@ -42,19 +42,19 @@
 
 ## [2020 - Infinite Recharge](2020-infinite-recharge.md)
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="380"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="380"><figcaption></figcaption></figure>
 
 ## [2019 - Destination: Deep Space](2019-destination-deep-space.md)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## [2018 - Power Up](2018-power-up.md)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## [2017 - Steamworks](2017-steamworks.md)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="347"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt="" width="347"><figcaption></figcaption></figure>
 
 ## [2016 - Stronghold](2016-stronghold.md)
 
