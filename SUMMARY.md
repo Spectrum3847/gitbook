@@ -19,6 +19,7 @@
   * [2013 - Ultimate Ascent](seasons/2013-ultimate-ascent.md)
   * [2012 - Rebound Rumble](seasons/2012-rebound-rumble.md)
 * [Resources](resources/README.md)
+  * [FIRST $2000 Purchase List](resources/first-usd2000-purchase-list.md)
   * [Illuminations: Young Team Guide](resources/illuminations-young-team-guide.md)
   * [Swerve Guide](resources/swerve-guide.md)
   * [Spectrum Cart 2.0](resources/spectrum-cart-2.0.md)
