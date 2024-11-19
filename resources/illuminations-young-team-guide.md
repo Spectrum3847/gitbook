@@ -102,7 +102,7 @@ Drivetrain / Swerve
 
 Tools
 
-* [FIRST $2000 Tool Guide](http://2000.spectrum3847.org) - A Good list of the tools you should buy for your shop
+* [FIRST $2000 Purchase Guide](first-usd2000-purchase-guide.md) - A Good list of the tools you should buy for your shop
 
 Toolboxes
 
