@@ -25,7 +25,7 @@ F1.8 - Into to Spectrum Slack - [Slides](https://docs.google.com/presentation/d/
 
 C1.1 Intro to Java Programming - [Video](https://www.youtube.com/watch?v=YWhJLJawGGU) - [Slides](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI\_KY/edit#slide=id.g9267f80ec3\_1\_80)
 
-C1.2 Intro to FRC Control System - [Video](https://www.youtube.com/watch?v=XHx3JeTk0Qw) - [Slides](https://docs.google.com/presentation/d/1U8EKEZv5Km\_\_JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
+C1.2 Intro to FRC Control System - [2025 Video](https://youtu.be/D767N5Etgak) - [Video](https://www.youtube.com/watch?v=XHx3JeTk0Qw) - [Slides](https://docs.google.com/presentation/d/1U8EKEZv5Km\_\_JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
 
 C1.3 Overview of FRC Programming - [Video ](https://www.youtube.com/watch?v=Hv1FSYj8rrA)- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRC037jwjNSnJN47Sut\_juVnw0Ds6HQF1Jrwlx2t-1F6xo2s3G6tx7XU7Q0-xzG7ihGxwnhlGDvChz6/pub?start=false\&loop=false\&delayms=3000)
 
