@@ -31,6 +31,8 @@ C1.3 Overview of FRC Programming - [Video ](https://www.youtube.com/watch?v=Hv1F
 
 C1.4 Intro to Pneumatics - [Video ](https://www.youtube.com/watch?v=h1q\_Xr5gHMQ)- [Slides](https://docs.google.com/presentation/d/1thkZCVNKfHDGw6\_co2KAN7cajhKEGYDX1tCw2e6pwqM/edit#slide=id.ga1e73b2d71\_0\_583)
 
+C1.6 Intro to FRC Vision Systems - [Video ](https://youtu.be/JDY2z1\_2wEA?si=bai35LmEhqQAzEwR)- [Slides](https://docs.google.com/presentation/d/18Km6PWV-6Slt5ESQbFIYo8DxL3BhUzXH\_tmMuM71YTA/edit?usp=sharing)
+
 C2.0 Install FRC Software Tools - [Video ](https://www.youtube.com/watch?v=8YaYxaSuHbM)- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR6Y1WOJIaN2maShvbTBh8LMBfhS40iKLJMoE9MAOuotemaGBm3\_rRC4AzLiMVJX79CBdnnilmMIS8J/pub?start=false\&loop=false\&delayms=3000)
 
 C2.1 Beginner FRC Programming 1 - [Video ](https://www.youtube.com/watch?v=MMvSTMHyokM)- [Slides](https://docs.google.com/presentation/d/17c1rSFLm\_WMR7hAvy6jl6Vy4p\_CdweD2gnlPQgB3bm0/edit#slide=id.p)
