@@ -3,7 +3,7 @@
 ## Recommended Software
 
 * [YAGSL (Yet Another Generic Swerve Library)](https://www.chiefdelphi.com/t/yet-another-generic-swerve-library-yagsl-v1-release/450844)&#x20;
-  * Works will all modules, motors, gyros, etc.
+  * Works with all modules, motors, gyros, etc.
 * Or [CTRE Swerve](https://v6.docs.ctr-electronics.com/en/latest/docs/tuner/tuner-swerve/index.html)&#x20;
   * Only works if you are using exclusively CTRE motors, encoders and gyro
 
