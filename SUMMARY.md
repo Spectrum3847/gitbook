@@ -25,6 +25,7 @@
   * [Spectrum Cart 2.0](resources/spectrum-cart-2.0.md)
   * [FRC CAD Collection](resources/frc-cad-collection.md)
   * [Conference Presentations](resources/conference-presentations.md)
+  * [Robot Explorations](resources/robot-explorations.md)
   * [Spectrum Resources](resources/spectrum-resources.md)
   * [Training](resources/training.md)
   * [Other Team's Resources](resources/recommended-reading/README.md)
