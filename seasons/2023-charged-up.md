@@ -9,6 +9,7 @@
 * Impact [Essay ](https://drive.google.com/file/d/1IDV8XykRjQI3WTbruDOTpUhe890CxZUZ/view?usp=share\_link)and [Video](https://www.youtube.com/watch?v=6DafXx8gTZ4)
 * [Season Photo Gallery](https://photos.spectrum3847.org/2023)
 * [Recap Video](https://www.youtube.com/watch?v=-fD8F\_CYtEQ)
+* [Robot Design Review Video](https://www.youtube.com/watch?v=FJh6DnMUyIA)
 
 <figure><img src="../.gitbook/assets/2023 X-Ray Robot.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
