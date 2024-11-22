@@ -1,5 +1,9 @@
 # Robot Explorations
 
+## 2020-2024
+
+
+
 {% tabs %}
 {% tab title="2024: Crescendo" %}
 ### 3847: Spectrum
@@ -56,16 +60,40 @@
 {% endtab %}
 
 {% tab title="2020: Infinite Recharge" %}
+### 148: Robowranglers
+
+{% embed url="https://youtu.be/iNS4-l36iHA?si=CQ_LChJ-_Zyqoy-L" %}
+
 ### 3847: Spectrum
 
 {% embed url="https://youtu.be/duSNdzMXEYA?si=ue9FTwXorIOK6ztL" %}
 
-### 148: Robowranglers
+### 2220: Blue Twilight
 
-{% embed url="https://youtu.be/iNS4-l36iHA?si=CQ_LChJ-_Zyqoy-L" %}
+{% embed url="https://youtu.be/qaSPQvtqdPk?si=-qP9VW4qgNByN4Bx" %}
+
+
 {% endtab %}
+{% endtabs %}
 
+## 2016-2019
+
+{% tabs %}
 {% tab title="2019: Destination Deep Space" %}
+### 1114: Simbotics
+
+{% embed url="https://youtu.be/GXuQBk2X0Ww?si=DUYjfrY4VPV6k0SM" %}
+
+### 1678: Citrus Circuits
+
+{% embed url="https://youtu.be/hfRABVMTGpE?si=iB3zun-QSOak2vG4" %}
+
+### 3847: Spectrum
+
+{% embed url="https://youtu.be/roJK6Ff9z_Q?si=jPFhUb3WJDSJci1A" %}
+
+
+
 ### 5460: Strike Zone
 
 {% embed url="https://youtu.be/_Q4oN8b_9fI?si=ZdZcdFgb2bXyzIiu" %}
@@ -76,10 +104,81 @@
 
 {% embed url="https://youtu.be/tdUxXgGqAPk?si=7EnjQf9Bg4yrMran" %}
 
+### 3847: Spectrum
+
+{% embed url="https://youtu.be/4YvOKtZZ7E8?si=qdhkQrMO4raEUL6z" %}
+{% endtab %}
+
+{% tab title="2017: Steamworks" %}
+### 3847: Spectrum
+
+{% embed url="https://www.youtube.com/watch?v=lDDnD21IXM0" %}
+
 
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="2016: Stronghold" %}
+3847: Spectrum
+
+{% embed url="https://www.youtube.com/watch?v=YlwnPQVDkW0" %}
+
 
 {% endtab %}
 {% endtabs %}
+
+## 2012 - 2015
+
+{% tabs %}
+{% tab title="2015" %}
+### 3847: Spectrum
+
+{% embed url="https://www.youtube.com/watch?v=ZGMysTXZK94" %}
+
+
+{% endtab %}
+
+{% tab title="2014" %}
+### 971: Spartan Robotics
+
+{% embed url="https://www.youtube.com/watch?v=q-t8QC9lQu4" %}
+
+### 3847: Spectrum
+
+{% embed url="https://www.youtube.com/watch?v=nsfsSpBtlAg" %}
+{% endtab %}
+
+{% tab title="2013" %}
+### 971: Spartan Robotics
+
+{% embed url="https://youtu.be/fNMP08lq8Gk?si=vNGmVp4DTExtbHZM" %}
+
+### 3847: Spectrum
+
+{% embed url="https://www.youtube.com/watch?v=a8gVu7j571E" %}
+
+
+{% endtab %}
+
+{% tab title="2012" %}
+### 3847: Spectrum
+
+{% embed url="https://www.youtube.com/watch?v=ZLigFMn2eyk" %}
+
+
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
