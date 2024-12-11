@@ -1,6 +1,6 @@
 # Spectrum Resources
 
-* Spectrum Training Curriculum -&#x20;
+* [Spectrum Training Curriculum](training.md)
 * Guide to the FRC MCC - (Minimum Competitive Concept) - [mcc.Spectrum3847.org](http://mcc.spectrum3847.org)
 * [Suggested FIRST Robotics Competition Items Document](https://docs.google.com/document/d/19GsJ8shaTC_MGULpALavXE1eWEpgQVkcE2KJYQsU3uU/edit#heading=h.d5xd6o1s8ay8)
 * [Suggested FRC Purchase Lists](https://docs.google.com/spreadsheets/d/1YphlEjvd_iZDxfXlK5U4N8X3P6jiRBvNsinzWJ3GT6w/edit#gid=0) - Each tab has different combinations of vendors
