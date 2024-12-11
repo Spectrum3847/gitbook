@@ -1,9 +1,9 @@
 # Spectrum Resources
 
-* Spectrum Training Curriculum - [Training.Spectrum3847.org](http://training.spectrum3847.org)
+* Spectrum Training Curriculum -&#x20;
 * Guide to the FRC MCC - (Minimum Competitive Concept) - [mcc.Spectrum3847.org](http://mcc.spectrum3847.org)
-* [Suggested FIRST Robotics Competition Items Document](https://docs.google.com/document/d/19GsJ8shaTC\_MGULpALavXE1eWEpgQVkcE2KJYQsU3uU/edit#heading=h.d5xd6o1s8ay8)
-* [Suggested FRC Purchase Lists](https://docs.google.com/spreadsheets/d/1YphlEjvd\_iZDxfXlK5U4N8X3P6jiRBvNsinzWJ3GT6w/edit#gid=0) - Each tab has different combinations of vendors
+* [Suggested FIRST Robotics Competition Items Document](https://docs.google.com/document/d/19GsJ8shaTC_MGULpALavXE1eWEpgQVkcE2KJYQsU3uU/edit#heading=h.d5xd6o1s8ay8)
+* [Suggested FRC Purchase Lists](https://docs.google.com/spreadsheets/d/1YphlEjvd_iZDxfXlK5U4N8X3P6jiRBvNsinzWJ3GT6w/edit#gid=0) - Each tab has different combinations of vendors
 * Illuminations 2022 FRC Young/Rookie Team Guide - [Illuminations.Spectrum3847.org](http://illuminations.spectrum3847.org)
 * Spectrum Solidworks CAD Library - [cad.spectrum3847.org](http://cad.spectrum3847.org) (No Longer Maintained)
 * [FRC CAD Collection](https://blog.spectrum3847.org/2019/12/frc-cad-collection.html) - [cadcollection.spectrum3847.org](http://cadcollection.spectrum3847.org) - [submission form](https://forms.gle/5wji6FbuZWPc4Fzn6) - [CD post](https://www.chiefdelphi.com/t/frc-cad-collection-spectrum-3847/367957)
@@ -22,16 +22,16 @@
 * Spectrum FRC Electrical Guide - [electrical.spectrum3847.org](http://electrical.spectrum3847.org)
 * FRC Maintenance Guide - [maintenance.spectrum3847.org](http://maintenance.spectrum3847.org)
 * Spectrum Sample Tool Lists - [2000.spectrum3847.org](http://2000.spectrum3847.org) -  [1000.spectrum3847.org](http://1000.spectrum3847.org) - [10000.spectrum3847.org](http://10000.spectrum3847.org)
-* [Spectrum FIRST Choice and Virtual Kit of Parts Guide 2023](https://docs.google.com/document/d/1ppeGxqJyxXeH3HQ8km097i95OJ1rtyzc\_6igW3fDiuc/edit) - [2022](https://docs.google.com/document/d/1\_b5DUsNKJJdW8E\_d9pNcwwF92dOXOIl3xHfKK7hp0J8/)/[2019](https://docs.google.com/document/d/e/2PACX-1vQXPD4AkhAMSYcCnw3NPy2vlHu68dlECGwoEwewFORmb6Kq2hzTT6oHhbaDW-\_ieNh7y\_3grglcyHZa/pub)
+* [Spectrum FIRST Choice and Virtual Kit of Parts Guide 2023](https://docs.google.com/document/d/1ppeGxqJyxXeH3HQ8km097i95OJ1rtyzc_6igW3fDiuc/edit) - [2022](https://docs.google.com/document/d/1_b5DUsNKJJdW8E_d9pNcwwF92dOXOIl3xHfKK7hp0J8/)/[2019](https://docs.google.com/document/d/e/2PACX-1vQXPD4AkhAMSYcCnw3NPy2vlHu68dlECGwoEwewFORmb6Kq2hzTT6oHhbaDW-_ieNh7y_3grglcyHZa/pub)
 * [Spectrum What’s in the Box Blog Series](http://blog.spectrum3847.org/search/label/Whats%20in%20the%20Box)
-* [Spectrum FRC Powder Coating Guide](https://drive.google.com/file/d/1qlL7w055oCCFMaH81cnm-PkvxW\_cHnZl/view)
-* [Spectrum Recommended Software](https://docs.google.com/document/d/1rFbJ\_3\_a-LQremD6qiNhzQuVt3GOmgMwTLvW2EoZpBs/edit)
+* [Spectrum FRC Powder Coating Guide](https://drive.google.com/file/d/1qlL7w055oCCFMaH81cnm-PkvxW_cHnZl/view)
+* [Spectrum Recommended Software](https://docs.google.com/document/d/1rFbJ_3_a-LQremD6qiNhzQuVt3GOmgMwTLvW2EoZpBs/edit)
 * Spectrum Do’s and Don’ts Presentation - [Video ](https://youtu.be/2q8iGo5i3Jc)- [Slides](https://rb.gy/vsawem)
 * Spectrum Chairman’s Award - [Public Shared Folder](https://drive.google.com/drive/folders/18lWl3J-P-PaTn48UbH-PB7NLAKZCdrnn?usp=sharing)
 * Brand Standard - [Brand.Spectrum3847.org](http://brand.spectrum3847.org)
-* [Social Media #BestPractices Video ](https://www.youtube.com/watch?v=wjNdxE-cdrY\&index=19\&list=PLIY-TB1MAu-X9ZcNqt-ot6\_JM2Z02zZ6L)
-* [How / What do we scout?](https://docs.google.com/presentation/d/e/2PACX-1vQQeTQ0X4sLUILPH376fuyWAbY8fCdAijrNZEjgLicEDXEzdXESa\_m-1cfnUpoeLfvPLqaEGxnbabkq/pub?start=false\&loop=false\&delayms=3000)
-* [Spectrum Presents: DC Motors and Gearing](https://docs.google.com/presentation/d/14-B1ecWNU2ltP0mrGwbsiSC7A8LEDDid5JN\_ZLMhWy8/pub?start=false\&loop=false\&delayms=3000)
+* [Social Media #BestPractices Video ](https://www.youtube.com/watch?v=wjNdxE-cdrY\&index=19\&list=PLIY-TB1MAu-X9ZcNqt-ot6_JM2Z02zZ6L)
+* [How / What do we scout?](https://docs.google.com/presentation/d/e/2PACX-1vQQeTQ0X4sLUILPH376fuyWAbY8fCdAijrNZEjgLicEDXEzdXESa_m-1cfnUpoeLfvPLqaEGxnbabkq/pub?start=false\&loop=false\&delayms=3000)
+* [Spectrum Presents: DC Motors and Gearing](https://docs.google.com/presentation/d/14-B1ecWNU2ltP0mrGwbsiSC7A8LEDDid5JN_ZLMhWy8/pub?start=false\&loop=false\&delayms=3000)
 * [Intro to Gearboxes and Power Transmission (Spectrum)](https://dl.dropbox.com/s/hsu7cd3gdvyes3c/Intro%20to%20Gearboxes%20and%20Power%20transmission.pptx?dl=1)
 * AV Streaming case details - [http://spectrum3847.org/spectrum-av-case/](http://spectrum3847.org/spectrum-av-case/)
 * [Spectrum 3847 Pit Design Guide](https://www.chiefdelphi.com/media/papers/2706)
