@@ -14,8 +14,8 @@ Spectrum has created and collected hundreds of resources to help FRC teams.
 [swerve-guide.md](swerve-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="spectrum-resources/spectrum-cart-2.0.md" %}
-[spectrum-cart-2.0.md](spectrum-resources/spectrum-cart-2.0.md)
+{% content-ref url="spectrum-cart-2.0.md" %}
+[spectrum-cart-2.0.md](spectrum-cart-2.0.md)
 {% endcontent-ref %}
 
 {% content-ref url="frc-cad-collection.md" %}
@@ -26,16 +26,16 @@ Spectrum has created and collected hundreds of resources to help FRC teams.
 [conference-presentations.md](conference-presentations.md)
 {% endcontent-ref %}
 
-{% content-ref url="spectrum-resources/" %}
-[spectrum-resources](spectrum-resources/)
+{% content-ref url="spectrum-resources.md" %}
+[spectrum-resources.md](spectrum-resources.md)
 {% endcontent-ref %}
 
-{% content-ref url="spectrum-resources/robot-explorations.md" %}
-[robot-explorations.md](spectrum-resources/robot-explorations.md)
+{% content-ref url="robot-explorations.md" %}
+[robot-explorations.md](robot-explorations.md)
 {% endcontent-ref %}
 
-{% content-ref url="spectrum-resources/training.md" %}
-[training.md](spectrum-resources/training.md)
+{% content-ref url="training.md" %}
+[training.md](training.md)
 {% endcontent-ref %}
 
 {% content-ref url="recommended-reading/" %}
