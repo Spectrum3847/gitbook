@@ -117,18 +117,16 @@ Most situations will likely only require one or two people to talk with the Head
 The original Q101 causes more issues than it solves and is often not enforced to the letter of the rule. We trust our volunteers and teams to be reasonable and act in good faith to get the best outcome for everyone involved.&#x20;
 {% endhint %}
 
-#### Q102 Questions after the Match
+#### G207 Don’t abuse ARENA access
 
-During a MATCH, TEAMS shall not communicate with FIELD STAFF regarding potential or observed rule violations, except in situations involving immediate safety concerns.
-
-This does not preclude FTAs, FTAAs, CSAs or other Field Staff from interacting with TEAMS to diagnose or address technical issues.
+A team member (except DRIVERS, HUMAN PLAYERS, and COACHES) granted access to restricted areas in and around the ARENA (e.g. via Media badges<mark style="background-color:yellow;">, Volunteer position,</mark> etc.) may not assist or use signaling devices during the MATCH. <mark style="background-color:yellow;">FIELD STAFF shall not communicate with TEAMS about rule violations or gameplay concerns during a MATCH. The only exceptions are for immediate safety issues or for FTAs, FTAAs, or CSAs diagnosing technical problems.</mark>
 
 {% hint style="danger" %}
-Violation: Arena Fault
+Violation: Verbal warning. Yellow Card for Subsequent Violations. <mark style="background-color:yellow;">ARENA FAULT if violated by Event Staff.</mark>
 {% endhint %}
 
 {% hint style="info" %}
-This rule is intended to prevent distractions during MATCH play and to ensure consistent communication across all TEAMS and MATCHES. TEAMS may address any rule-related questions or concerns with the Head REFEREE once the MATCH has concluded.
+This rule is intended to prevent distractions during MATCH play and to ensure consistent communication across all TEAMS and MATCHES. TEAMS may address any rule-related questions or concerns with the Head REFEREE once the MATCH has concluded. Violations by Event Staff associated with teams in that match with the intent to cause an arena fault will quickly escalate to a G211 violation.
 {% endhint %}
 
 ***
