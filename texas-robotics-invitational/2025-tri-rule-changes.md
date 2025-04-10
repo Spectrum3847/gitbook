@@ -44,6 +44,8 @@ This is a new rule for TRI. Using tall ladders is an unecessary safety risk espe
 This rule is never enforced, and so shouldn't be in the rules
 {% endhint %}
 
+***
+
 ## 2. Field Marking Changes
 
 There is now a PROCESSOR PATHWAY that connects an alliance’s PROCESSOR AREA and ALLIANCE AREA Marked by a 2” Gaffers tape line.  Only HUMAN PLAYERS may use this pathway and must make a reasonable effort to stay on the line when moving between the 2 zones.&#x20;
@@ -53,6 +55,8 @@ There is now a PROCESSOR PATHWAY that connects an alliance’s PROCESSOR AREA an
 {% hint style="info" %}
 Field Cad \[Coming Soon]
 {% endhint %}
+
+***
 
 ## 3. Driveteams
 
@@ -65,6 +69,8 @@ A DRIVE TEAM is a set of up to 5 people from the same FIRST Robotics Competition
 {% hint style="info" %}
 Removed TECHNICIAN, added a second COACH
 {% endhint %}
+
+***
 
 #### 6.3.1 DRIVETEAMS
 
@@ -81,15 +87,21 @@ DRIVE TEAMS prepare for a MATCH by staging in the appropriate areas, according t
 Requirement for HUMAN PLAYER to start in the PROCESSOR AREA has been removed. References to TECHNICIANS have been removed.
 {% endhint %}
 
+***
+
 ## 4. Ranking Points
 
 <table><thead><tr><th>Ranking Point</th><th>Requirements</th><th data-type="number">Ranking Points Awarded</th></tr></thead><tbody><tr><td>AUTO RP</td><td>all non-BYPASSED ROBOTS LEAVE and at least 1 CORAL scored<br>in AUTO</td><td>1</td></tr><tr><td>CORAL RP</td><td>at least <mark style="background-color:yellow;">6</mark> CORAL must be scored on each of 3<br>levels.</td><td>1</td></tr><tr><td>BARGE RP</td><td>at least 16 BARGE points are scored</td><td>1</td></tr><tr><td>Win</td><td>completing a MATCH with more MATCH points than your opponent</td><td>3</td></tr><tr><td>Tie</td><td>completing a MATCH with the same number of MATCH points as your opponent</td><td>1</td></tr></tbody></table>
+
+***
 
 ## 5. Coopertition Point&#x20;
 
 {% hint style="warning" %}
 The Coopertition Point has been eliminated.
 {% endhint %}
+
+***
 
 ## 6. Game Rule Updates
 
@@ -103,6 +115,20 @@ Most situations will likely only require one or two people to talk with the Head
 
 {% hint style="info" %}
 The original Q101 causes more issues than it solves and is often not enforced to the letter of the rule. We trust our volunteers and teams to be reasonable and act in good faith to get the best outcome for everyone involved.&#x20;
+{% endhint %}
+
+#### Q102 Questions after the Match
+
+During a MATCH, TEAMS shall not communicate with FIELD STAFF regarding potential or observed rule violations, except in situations involving immediate safety concerns.
+
+This does not preclude FTAs, FTAAs, CSAs or other Field Staff from interacting with TEAMS to diagnose or address technical issues.
+
+{% hint style="danger" %}
+Violation: Arena Fault
+{% endhint %}
+
+{% hint style="info" %}
+This rule is intended to prevent distractions during MATCH play and to ensure consistent communication across all TEAMS and MATCHES. TEAMS may address any rule-related questions or concerns with the Head REFEREE once the MATCH has concluded.
 {% endhint %}
 
 ***
