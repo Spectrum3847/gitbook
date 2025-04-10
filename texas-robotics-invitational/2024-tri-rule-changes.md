@@ -125,7 +125,7 @@ Coaches may touch the driver station laptop to diagnose a problem with the robot
 
 ## 5. Inspection Rules
 
-&#x20;\+5 pounds weight allowance and no formal inspections.&#x20;
+&#x20;+5 pounds weight allowance and no formal inspections.&#x20;
 
 {% hint style="info" %}
 This allows repairs and minor modifications without major work to maintain 125 lbs. Robots may weigh up to 130 lbs. We also won’t have inspections at this event; event staff may ask you to make modifications if your robot doesn’t meet the FRC robot rules.
