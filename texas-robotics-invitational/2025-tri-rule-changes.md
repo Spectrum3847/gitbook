@@ -109,6 +109,8 @@ The Coopertition Point has been eliminated.
 All Yellow and Red Cards are now at the discretion of the Head Referee. Minor non-match-affecting incidents will be given warnings before cards are given. Teams will not be punished for field staff giving them directions such as entering the field.
 {% endhint %}
 
+***
+
 #### Q101. Be reasonable with the Head Referee.
 
 Most situations will likely only require one or two people to talk with the Head Referee. Still, we aren't going to institute a rule that doesn’t allow other drive team members (including adult drive coaches) to provide information or listen to the conversations. Please be mindful that the Head Referee makes the final decision on calls but may be advised by other referees and the Event Director (who replaces HQ at off-season events). Also, please remember that G212 is a rule, and the Head referee may give YELLOW or RED CARDS for any interactions that are deemed to be egregious. We are all working for the inspiration of our students. Be polite, reasonable, and respectful; we will all have a great event.&#x20;
@@ -116,6 +118,8 @@ Most situations will likely only require one or two people to talk with the Head
 {% hint style="info" %}
 The original Q101 causes more issues than it solves and is often not enforced to the letter of the rule. We trust our volunteers and teams to be reasonable and act in good faith to get the best outcome for everyone involved.&#x20;
 {% endhint %}
+
+***
 
 #### G207 Don’t abuse ARENA access
 
@@ -194,6 +198,8 @@ Violation: MAJOR FOUL and Warning. Repeated/Extended: MAJOR FOUL and RED CARD.
 Coaches may touch the driver station laptop to diagnose a problem with the robot but may not directly contact any controllers or operate the robot in any way.
 {% endhint %}
 
+***
+
 ## 7. Inspection Rules
 
 &#x20;+5 pounds weight allowance and no formal inspections.&#x20;
@@ -202,11 +208,15 @@ Coaches may touch the driver station laptop to diagnose a problem with the robot
 This allows repairs and minor modifications without major work to maintain 115 lbs. Robots may weigh up to 120 lbs. We also won’t have inspections at this event; event staff may ask you to make modifications if your robot doesn’t meet the FRC robot rules.
 {% endhint %}
 
+***
+
 ## 8. Alliance Selection
 
 1. If we have more than 32 teams, The standard championship subdivision-level alliance selection process, including the four robots per alliance rules outlined in the game manual, will be used. 1-8, 8-1, 1-8
 2. If we have fewer than 32 teams. We will use the standard 3-team alliance format from district/regional events.
 3. At the beginning of Alliance Selection, the Emcee will ask if any teams would like to withdraw from Alliance Selection. Any teams wishing not to play can withdraw at this time. After Alliance #8 has made its first pick, teams are no longer allowed to decline invitations, and all further picks will be automatically accepted.
+
+***
 
 ## 9. Video Review
 
@@ -224,9 +234,13 @@ Given that the technology allows it (the video system doesn’t go down, etc.), 
 We don’t plan on ever having this happen, but we want to provide the best event possible to teams; a video review of other situations may allow us to do this.
 {% endhint %}
 
+***
+
 ## 10. Soft Time Cap
 
 We will institute a soft time cap during the event to allow teams to leave in a reasonable amount of time if there are match delays. At the discretion of the event organizers, if the Finals start after 6 p.m. Central Time, we will move to a “Best of 1” elimination format instead of the usual “Best 2 of 3” format.&#x20;
+
+***
 
 ## 11. Break Changes
 
