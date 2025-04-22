@@ -21,7 +21,7 @@ G. scooters, except for those used for accommodations\
 <mark style="background-color:yellow;">H. Full Face Mascots</mark>
 
 {% hint style="danger" %}
-Violation: Team Members will be asked to remove them from the Venue, Further Violations can in G201 Violations, Red Cards, Disqualification, and / or Team Memebrs will be asked to leave the venue.
+Violation: Team Members will be asked to remove them from the Venue, Further Violations can result in G201 Violations, Red Cards, Disqualification, and / or Team Memebrs will be asked to leave the venue.
 {% endhint %}
 
 ***
@@ -50,10 +50,10 @@ This rule is never enforced, and so shouldn't be in the rules
 
 There is now a PROCESSOR PATHWAY that connects an alliance’s PROCESSOR AREA and ALLIANCE AREA Marked by a 2” Gaffers tape line.  Only HUMAN PLAYERS may use this pathway and must make a reasonable effort to stay on the line when moving between the 2 zones.&#x20;
 
-\[Image Coming Soon]
+<div data-full-width="true"><figure><img src="../.gitbook/assets/REEFSCAPE FIELD (FE-2025).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Field Cad \[Coming Soon]
+[Field Cad](https://go.spectrum3847.org/TRI25Field)
 {% endhint %}
 
 ***
@@ -62,12 +62,12 @@ Field Cad \[Coming Soon]
 
 #### 6.2 DRIVE TEAM
 
-A DRIVE TEAM is a set of up to 5 people from the same FIRST Robotics Competition team responsible for team performance for a specific MATCH. There are <mark style="background-color:yellow;">3</mark> specific roles on a DRIVE TEAM which ALLIANCES can use to assist ROBOTS with REEFSCAPE.
+A DRIVE TEAM is a set of up to 5 people from the same FIRST Robotics Competition team responsible for team performance for a specific MATCH. There are 4 specific roles on a DRIVE TEAM which ALLIANCES can use to assist ROBOTS with REEFSCAPE.
 
-<table><thead><tr><th>Role</th><th>Description</th><th data-type="number">Max./ DRIVE TEAM</th><th>Criteria</th></tr></thead><tbody><tr><td>COACH</td><td>a guide or advisor</td><td>2</td><td>any team member, must wear “COACH”<br>button</td></tr><tr><td><p>DRIVER<br><br></p><p><br>HUMAN PLAYER</p></td><td><p>an operator and controller<br>of the ROBOT<br></p><p></p><p><br>a SCORING ELEMENT<br>manager</p></td><td>3</td><td>STUDENT, must wear a “DRIVE TEAM”<br>button</td></tr></tbody></table>
+<table><thead><tr><th>Role</th><th>Description</th><th data-type="number">Max./ DRIVE TEAM</th><th>Criteria</th></tr></thead><tbody><tr><td>COACH<br><br><br><br>TECHNICIAN</td><td>a guide or advisor</td><td>2</td><td>any team member, must wear “COACH”<br>button</td></tr><tr><td><p>DRIVER<br><br></p><p><br>HUMAN PLAYER</p></td><td><p>an operator and controller<br>of the ROBOT<br></p><p></p><p><br>a SCORING ELEMENT<br>manager</p></td><td>3</td><td>STUDENT, must wear a “DRIVE TEAM”<br>button</td></tr></tbody></table>
 
 {% hint style="info" %}
-Removed TECHNICIAN, added a second COACH
+Combined TECHNICIAN and COACH count. A team may have up to 2 Coaches.
 {% endhint %}
 
 ***
@@ -76,22 +76,23 @@ Removed TECHNICIAN, added a second COACH
 
 DRIVE TEAMS prepare for a MATCH by staging in the appropriate areas, according to their role on the DRIVE TEAM, and by identifying themselves accordingly. DRIVE TEAM starting conditions are listed below, and a DRIVE TEAM obstructing or delaying any of the conditions is at risk of violating G301.&#x20;
 
-1. only DRIVE TEAM members assigned to the upcoming MATCH are present,&#x20;
-2. For QUALIFICATION and PLAYOFF MATCHES only DRIVE TEAM members whose ROBOTS have passed initial, complete Inspection are present,
-3. any number of HUMAN PLAYERS are staged in their CORAL STATION AREAS,
-4. HUMAN PLAYERS not included in C or D, DRIVERS, and COACHES are in their ALLIANCE AREA and behind the HUMAN STARTING LINE,&#x20;
-5. DRIVE TEAM members clearly display their designated buttons above their waists (COACH - “Coach”, DRIVERS and HUMAN PLAYERS - “Drive Team”
-6. if a Playoff MATCH, the ALLIANCE CAPTAIN clearly displays their designated ALLIANCE CAPTAIN identifier (e.g. hat or armband).
+* A. only DRIVE TEAM members assigned to the upcoming MATCH are present,&#x20;
+* B. For QUALIFICATION and PLAYOFF MATCHES only DRIVE TEAM members whose ROBOTS have passed initial, complete Inspection are present,
+* C. any number of HUMAN PLAYERS are staged in their CORAL STATION AREAS,
+* D. HUMAN PLAYERS not included in C or D, DRIVERS, and COACHES are in their ALLIANCE AREA and behind the HUMAN STARTING LINE,&#x20;
+* E. TECHNICIANS are in the event-designated area near the FIELD,
+* F. DRIVE TEAM members clearly display their designated buttons above their waists (COACH - “Coach”, DRIVERS and HUMAN PLAYERS - “Drive Team”
+* G. if a Playoff MATCH, the ALLIANCE CAPTAIN clearly displays their designated ALLIANCE CAPTAIN identifier (e.g. hat or armband).
 
 {% hint style="info" %}
-Requirement for HUMAN PLAYER to start in the PROCESSOR AREA has been removed. References to TECHNICIANS have been removed.
+Requirement for HUMAN PLAYER to start in the PROCESSOR AREA has been removed.
 {% endhint %}
 
 ***
 
 ## 4. Ranking Points
 
-<table><thead><tr><th>Ranking Point</th><th>Requirements</th><th data-type="number">Ranking Points Awarded</th></tr></thead><tbody><tr><td>AUTO RP</td><td>all non-BYPASSED ROBOTS LEAVE and at least 1 CORAL scored<br>in AUTO</td><td>1</td></tr><tr><td>CORAL RP</td><td>at least <mark style="background-color:yellow;">6</mark> CORAL must be scored on each of 3<br>levels.</td><td>1</td></tr><tr><td>BARGE RP</td><td>at least 16 BARGE points are scored</td><td>1</td></tr><tr><td>Win</td><td>completing a MATCH with more MATCH points than your opponent</td><td>3</td></tr><tr><td>Tie</td><td>completing a MATCH with the same number of MATCH points as your opponent</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th>Ranking Point</th><th>Requirements</th><th data-type="number">Ranking Points Awarded</th></tr></thead><tbody><tr><td>AUTO RP</td><td>all non-BYPASSED ROBOTS LEAVE and at least 1 CORAL scored<br>in AUTO</td><td>1</td></tr><tr><td>CORAL RP</td><td>at least <mark style="background-color:yellow;">6</mark> CORAL must be scored on each of 3<br>levels.</td><td>1</td></tr><tr><td>BARGE RP</td><td>at least <mark style="background-color:yellow;">14</mark> BARGE points are scored</td><td>1</td></tr><tr><td>Win</td><td>completing a MATCH with more MATCH points than your opponent</td><td>3</td></tr><tr><td>Tie</td><td>completing a MATCH with the same number of MATCH points as your opponent</td><td>1</td></tr></tbody></table>
 
 ***
 
@@ -130,7 +131,7 @@ Violation: Verbal warning. Yellow Card for Subsequent Violations. <mark style="b
 {% endhint %}
 
 {% hint style="info" %}
-This rule is intended to prevent distractions during MATCH play and to ensure consistent communication across all TEAMS and MATCHES. TEAMS may address any rule-related questions or concerns with the Head REFEREE once the MATCH has concluded. Violations by Event Staff associated with teams in that match with the intent to cause an arena fault will quickly escalate to a G211 violation.
+This rule is intended to prevent distractions during MATCH play, to prevent a DRIVE TEAM member from distracting a REFEREE, and to ensure consistent communication across all TEAMS and MATCHES. TEAMS may address any rule-related questions or concerns with the Head REFEREE once the MATCH has concluded. Violations by Event Staff associated with teams in that match with the intent to cause an arena fault will quickly escalate to a G211 violation.
 {% endhint %}
 
 ***
@@ -154,7 +155,9 @@ Almost everyone has a phone in their pocket or bag and wears clothing, so it sho
 ~~In AUTO, a HUMAN PLAYER may not enter ALGAE onto the field.~~
 
 {% hint style="info" %}
-Removing G404 removes an avenue for unintentional fouls that have no strategic gain. Removing this complexity is good for offseasons especially with rotating drive teams and new Human Players.&#x20;
+Removing G404 removes an avenue for unintentional fouls that have no strategic gain. Removing this complexity is good for offseasons especially with rotating drive teams and new Human Players.\
+\
+If teams throw algae in an attempt to disrupt a teams auto it will be a G406 violation, and can quickly escalate to a G211 violation.
 {% endhint %}
 
 ***
@@ -181,7 +184,7 @@ Violation: MAJOR FOUL and YELLOW CARD. If opponent ROBOT is unable to drive <mar
 {% endhint %}
 
 {% hint style="info" %}
-For G417 and G418, Robots attempting to “play the game” (score a game piece, move in the direction of one of their protected zones, etc.) will get the benefit of the doubt. In cases where referees are forced to make a judgment call regarding a destructive interaction between robots or an interaction that results in a questionable rules violation, the referees will err on the side of robots attempting to “play the game.”
+For G422 and G423, Robots attempting to “play the game” (score a game piece, move in the direction of one of their protected zones, etc.) will get the benefit of the doubt. In cases where referees are forced to make a judgment call regarding a destructive interaction between robots or an interaction that results in a questionable rules violation, the referees will err on the side of robots attempting to “play the game" <mark style="background-color:yellow;">regardless of the side of the field the interaction occurs.</mark>
 {% endhint %}
 
 ***
