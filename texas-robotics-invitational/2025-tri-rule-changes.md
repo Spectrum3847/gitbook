@@ -127,7 +127,7 @@ The original Q101 causes more issues than it solves and is often not enforced to
 
 A team member (except DRIVERS, HUMAN PLAYERS, and COACHES) granted access to restricted areas in and around the ARENA (e.g. via Media badges<mark style="background-color:yellow;">, Volunteer position,</mark> etc.) may not assist or use signaling devices during the MATCH.&#x20;
 
-<mark style="background-color:yellow;">FIELD STAFF shall not communicate with TEAMS about rule violations or gameplay concerns during a MATCH. The only exceptions are for immediate safety issues or for FTAs, FTAAs, or CSAs diagnosing technical problems.</mark>
+<mark style="background-color:yellow;">Event Staff shall not communicate with TEAMS about rule violations or gameplay concerns during a MATCH. The only exceptions are for immediate safety issues or for FTAs, FTAAs, or CSAs diagnosing technical problems.</mark>
 
 {% hint style="danger" %}
 Violation: Verbal warning. Yellow Card for Subsequent Violations. <mark style="background-color:yellow;">ARENA FAULT if violated by Event Staff.</mark>
