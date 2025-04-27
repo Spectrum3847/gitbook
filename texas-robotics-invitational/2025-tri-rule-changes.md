@@ -1,10 +1,10 @@
 ---
-description: V 25.0
+description: V 25.1
 ---
 
 # 2025 TRI Rule Changes
 
-Texas Robotics Invitational 2025 will use the FRC 2025 Reefscape rules except where noted below. Please send any questions to [TRI@Spectrum3847.org](mailto:TRI@Spectrum3847.org).
+Texas Robotics Invitational 2025 will use the [FRC 2025 Reefscape rules](https://firstfrc.blob.core.windows.net/frc2025/Manual/2025GameManual.pdf) except where noted below. Please send any questions to [TRI@Spectrum3847.org](mailto:TRI@Spectrum3847.org).
 
 ## 1. Event Rule Changes
 
