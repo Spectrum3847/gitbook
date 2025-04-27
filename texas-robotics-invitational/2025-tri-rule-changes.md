@@ -64,7 +64,7 @@ There is now a PROCESSOR PATHWAY that connects an alliance’s PROCESSOR AREA an
 
 A DRIVE TEAM is a set of up to 5 people from the same FIRST Robotics Competition team responsible for team performance for a specific MATCH. There are 4 specific roles on a DRIVE TEAM which ALLIANCES can use to assist ROBOTS with REEFSCAPE.
 
-<table><thead><tr><th>Role</th><th>Description</th><th data-type="number">Max./ DRIVE TEAM</th><th>Criteria</th></tr></thead><tbody><tr><td>COACH<br><br><br><br>TECHNICIAN</td><td>a guide or advisor</td><td>2</td><td>any team member, must wear “COACH”<br>button</td></tr><tr><td><p>DRIVER<br><br></p><p><br>HUMAN PLAYER</p></td><td><p>an operator and controller<br>of the ROBOT<br></p><p></p><p><br>a SCORING ELEMENT<br>manager</p></td><td>3</td><td>STUDENT, must wear a “DRIVE TEAM”<br>button</td></tr></tbody></table>
+<table><thead><tr><th>Role</th><th>Description</th><th data-type="number">Max./ DRIVE TEAM</th><th>Criteria</th></tr></thead><tbody><tr><td>COACH</td><td>a guide or advisor</td><td>2</td><td>any team member, must wear “COACH”<br>button</td></tr><tr><td><p>DRIVER<br><br></p><p><br>HUMAN PLAYER</p></td><td><p>an operator and controller<br>of the ROBOT<br></p><p></p><p><br>a SCORING ELEMENT<br>manager</p></td><td>3</td><td>STUDENT, must wear a “DRIVE TEAM”<br>button</td></tr></tbody></table>
 
 {% hint style="info" %}
 Combined TECHNICIAN and COACH count. A team may have up to 2 Coaches.
@@ -80,12 +80,13 @@ DRIVE TEAMS prepare for a MATCH by staging in the appropriate areas, according t
 * B. For QUALIFICATION and PLAYOFF MATCHES only DRIVE TEAM members whose ROBOTS have passed initial, complete Inspection are present,
 * C. any number of HUMAN PLAYERS are staged in their CORAL STATION AREAS,
 * D. HUMAN PLAYERS not included in C or D, DRIVERS, and COACHES are in their ALLIANCE AREA and behind the HUMAN STARTING LINE,&#x20;
-* E. TECHNICIANS are in the event-designated area near the FIELD,
 * F. DRIVE TEAM members clearly display their designated buttons above their waists (COACH - “Coach”, DRIVERS and HUMAN PLAYERS - “Drive Team”
 * G. if a Playoff MATCH, the ALLIANCE CAPTAIN clearly displays their designated ALLIANCE CAPTAIN identifier (e.g. hat or armband).
 
 {% hint style="info" %}
-Requirement for HUMAN PLAYER to start in the PROCESSOR AREA has been removed.
+Requirement for HUMAN PLAYER to start in the PROCESSOR AREA has been removed.&#x20;
+
+Removed reference to TECHNICIAN.
 {% endhint %}
 
 ***
