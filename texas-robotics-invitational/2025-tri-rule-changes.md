@@ -93,7 +93,7 @@ Removed reference to TECHNICIAN.
 
 ## 4. Ranking Points
 
-<table><thead><tr><th>Ranking Point</th><th>Requirements</th><th data-type="number">Ranking Points Awarded</th></tr></thead><tbody><tr><td>AUTO RP</td><td>all non-BYPASSED ROBOTS LEAVE and at least 1 CORAL scored<br>in AUTO</td><td>1</td></tr><tr><td>CORAL RP</td><td>at least <mark style="background-color:yellow;">6</mark> CORAL must be scored on each of 3<br>levels.</td><td>1</td></tr><tr><td>BARGE RP</td><td>at least <mark style="background-color:yellow;">14</mark> BARGE points are scored</td><td>1</td></tr><tr><td>Win</td><td>completing a MATCH with more MATCH points than your opponent</td><td>3</td></tr><tr><td>Tie</td><td>completing a MATCH with the same number of MATCH points as your opponent</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th>Ranking Point</th><th>Requirements</th><th data-type="number">Ranking Points Awarded</th></tr></thead><tbody><tr><td>AUTO RP</td><td>all non-BYPASSED ROBOTS LEAVE and at least 1 CORAL scored<br>in AUTO</td><td>1</td></tr><tr><td>CORAL RP</td><td>at least <mark style="background-color:yellow;">6</mark> CORAL must be scored on each of <mark style="background-color:yellow;">3</mark><br>levels.</td><td>1</td></tr><tr><td>BARGE RP</td><td>at least <mark style="background-color:yellow;">14</mark> BARGE points are scored</td><td>1</td></tr><tr><td>Win</td><td>completing a MATCH with more MATCH points than your opponent</td><td>3</td></tr><tr><td>Tie</td><td>completing a MATCH with the same number of MATCH points as your opponent</td><td>1</td></tr></tbody></table>
 
 ***
 
