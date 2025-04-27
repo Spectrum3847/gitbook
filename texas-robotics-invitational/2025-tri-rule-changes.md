@@ -1,6 +1,5 @@
 ---
 description: V 25.0
-hidden: true
 ---
 
 # 2025 TRI Rule Changes

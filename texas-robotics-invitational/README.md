@@ -6,7 +6,15 @@ Texas Robotics Invitational (TRI) is an off-season event in Houston, Texas desig
 
 ## 2025 Texas Robotics Invitational
 
-Team and Volunteer Applications (Coming Soon)
+[Team Application](https://forms.gle/bP3KumX8oLKR9Hxr9)
+
+[Volunteer Application](https://forms.gle/TXgsJjQxaNNmoKiA8)
+
+
+
+{% content-ref url="2025-tri-rule-changes.md" %}
+[2025-tri-rule-changes.md](2025-tri-rule-changes.md)
+{% endcontent-ref %}
 
 ### **Dates:**
 
