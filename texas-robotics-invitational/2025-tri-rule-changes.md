@@ -78,7 +78,7 @@ DRIVE TEAMS prepare for a MATCH by staging in the appropriate areas, according t
 
 * A. only DRIVE TEAM members assigned to the upcoming MATCH are present,&#x20;
 * B. For QUALIFICATION and PLAYOFF MATCHES only DRIVE TEAM members whose ROBOTS have passed initial, complete Inspection are present,
-* C. any number of HUMAN PLAYERS are staged in their CORAL STATION AREAS,
+* C. any number of HUMAN PLAYERS are staged in their CORAL STATION AREAS or PROCESSOR AREA,
 * D. HUMAN PLAYERS not included in C or D, DRIVERS, and COACHES are in their ALLIANCE AREA and behind the HUMAN STARTING LINE,&#x20;
 * F. DRIVE TEAM members clearly display their designated buttons above their waists (COACH - “Coach”, DRIVERS and HUMAN PLAYERS - “Drive Team”
 * G. if a Playoff MATCH, the ALLIANCE CAPTAIN clearly displays their designated ALLIANCE CAPTAIN identifier (e.g. hat or armband).
