@@ -1,10 +1,14 @@
 ---
-description: V 25.1
+description: V 25.2
 ---
 
 # 2025 TRI Rule Changes
 
 Texas Robotics Invitational 2025 will use the [FRC 2025 Reefscape rules](https://firstfrc.blob.core.windows.net/frc2025/Manual/2025GameManual.pdf) except where noted below. Please send any questions to [TRI@Spectrum3847.org](mailto:TRI@Spectrum3847.org).
+
+{% hint style="info" %}
+25.2 Change (5/1): G207 Blue box 2nd Paragraph added
+{% endhint %}
 
 ## 1. Event Rule Changes
 
@@ -133,7 +137,14 @@ Violation: Verbal warning. Yellow Card for Subsequent Violations. <mark style="b
 {% endhint %}
 
 {% hint style="info" %}
-This rule is intended to prevent distractions during MATCH play, to prevent a DRIVE TEAM member from distracting a REFEREE, and to ensure consistent communication across all TEAMS and MATCHES. TEAMS may address any rule-related questions or concerns with the Head REFEREE once the MATCH has concluded. Violations by Event Staff associated with teams in that match with the intent to cause an arena fault will quickly escalate to a G211 violation.
+This rule is intended to prevent distractions during MATCH play, to prevent a DRIVE TEAM member from distracting a REFEREE, and to ensure consistent communication across all TEAMS and MATCHES. TEAMS may address any rule-related questions or concerns with the Head REFEREE once the MATCH has concluded. Violations by Event Staff associated with teams in that match with the intent to cause an arena fault will quickly escalate to a G211 violation.\
+\
+The bar for "immediate safety issues" are human or robot actions that are considered situations in which a ROBOT should be DISABLED and/or the MATCH should be STOPPED. Examples include but are not limited to:
+
+* HUMAN PLAYER and enabled ROBOT contacting the same SCORING ELEMENT at the same time
+* HUMAN PLAYER entering the FIELD during the MATCH
+* A ROBOT becomes stuck on the FIELD barrier in a way that could damage itself or the FIELD
+* A ROBOT is repeatedly slamming into the FIELD perimeter or DRIVER STATION walls in a dangerous manner
 {% endhint %}
 
 ***
