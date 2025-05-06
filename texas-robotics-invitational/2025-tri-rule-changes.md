@@ -1,5 +1,5 @@
 ---
-description: V 25.2
+description: V 25.3
 ---
 
 # 2025 TRI Rule Changes
@@ -8,6 +8,8 @@ Texas Robotics Invitational 2025 will use the [FRC 2025 Reefscape rules](https:/
 
 {% hint style="info" %}
 25.2 Change (5/1): G207 Blue box 2nd Paragraph added
+
+25.3 Change (5/6): G433 modified
 {% endhint %}
 
 ## 1. Event Rule Changes
@@ -213,6 +215,24 @@ Violation: MAJOR FOUL and Warning. Repeated/Extended: MAJOR FOUL and RED CARD.
 {% hint style="info" %}
 Coaches may touch the driver station laptop to diagnose a problem with the robot but may not directly contact any controllers or operate the robot in any way.
 {% endhint %}
+
+***
+
+#### G433 \*SCORING ELEMENT delivery. SCORING ELEMENTS may only be entered onto the FIELD as follows:
+
+* A. CORAL may only be introduced to the FIELD by a HUMAN PLAYER or DRIVER through the <mark style="background-color:yellow;">CHUTE</mark> and
+* B. ALGAE may only be entered onto the FIELD by a HUMAN PLAYER in their PROCESSOR AREA.\
+  Violation: MAJOR FOUL.
+
+{% hint style="danger" %}
+Violation: MAJOR FOUL
+{% endhint %}
+
+{% hint style="info" %}
+Got rid of potential loophole that allowed for CORAL to be introduced through the gateway arc part of the CORAL STATION and tossed into the field over the CHUTE
+{% endhint %}
+
+
 
 ***
 
