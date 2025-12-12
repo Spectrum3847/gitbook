@@ -1,11 +1,41 @@
 # Robot Explorations
 
+## 2025
+
+{% tabs %}
+{% tab title="2025: Reefscape" %}
+### 581: Blazing Bulldogs
+
+{% embed url="https://youtu.be/Ped5NO1mQI0?si=3cTvNwlOzm4r-nmj" %}
+
+{% embed url="https://youtu.be/mpCcufLg1PM?si=ezPuMt-ClOY8j4UH" %}
+
+### 2910: Jack in the bot
+
+{% embed url="https://youtu.be/JDWps-O94HY?si=H2NoEFzY1kTvCvFT" %}
+
+{% embed url="https://youtu.be/L3h1zDKLn2g?si=7lY4W8zxxZmS6NMb" %}
+
+### 3847: Spectrum
+
+{% embed url="https://youtu.be/j09lubogiug?si=vsdEo2JX1UuyTnH6" %}
+
+### 5406: Celt-X & 694: StuyPulse
+
+{% embed url="https://youtu.be/3wamd9x3tjo?si=2TpmedXMzSNNACFO" %}
+{% endtab %}
+{% endtabs %}
+
+
+
 ## 2020-2024
-
-
 
 {% tabs %}
 {% tab title="2024: Crescendo" %}
+### 3005: Robochargers
+
+{% embed url="https://www.youtube.com/watch?v=B1eH9Ag8oeM" %}
+
 ### 3847: Spectrum
 
 {% embed url="https://youtu.be/I2ECY2pwLsQ?si=j-Tt1nbanJ0bFk6j" %}
