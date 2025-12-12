@@ -1,5 +1,11 @@
 # Robot Explorations
 
+{% content-ref url="frc-cad-collection.md" %}
+[frc-cad-collection.md](frc-cad-collection.md)
+{% endcontent-ref %}
+
+***
+
 ## 2025
 
 {% tabs %}

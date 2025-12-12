@@ -18,8 +18,8 @@ Spectrum has created and collected hundreds of resources to help FRC teams.
 [spectrum-cart-2.0.md](spectrum-cart-2.0.md)
 {% endcontent-ref %}
 
-{% content-ref url="frc-cad-collection.md" %}
-[frc-cad-collection.md](frc-cad-collection.md)
+{% content-ref url="robot-explorations/frc-cad-collection.md" %}
+[frc-cad-collection.md](robot-explorations/frc-cad-collection.md)
 {% endcontent-ref %}
 
 {% content-ref url="conference-presentations.md" %}
@@ -30,8 +30,8 @@ Spectrum has created and collected hundreds of resources to help FRC teams.
 [spectrum-resources.md](spectrum-resources.md)
 {% endcontent-ref %}
 
-{% content-ref url="robot-explorations.md" %}
-[robot-explorations.md](robot-explorations.md)
+{% content-ref url="robot-explorations/" %}
+[robot-explorations](robot-explorations/)
 {% endcontent-ref %}
 
 {% content-ref url="training.md" %}
