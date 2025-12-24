@@ -188,3 +188,6 @@ Regional Mentor Chats
 
 * Many regions/districts/countries have chat platforms that they use to communicate to each other. If you’re a mentor, ask your regional director, district organizer, or veteran teams in your area if they know of a community you can join.
 
+## Learning More
+
+[Other Team's Resources](recommended-reading/)
