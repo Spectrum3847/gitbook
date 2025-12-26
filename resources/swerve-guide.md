@@ -9,11 +9,11 @@
 
 ## Swerve Requirements
 
-* 4 Modules = $280 to $365 each
+* 4 Modules = $175 to $395 each
 * 4 Steering Encoders (May be included with module) = $30 to $90 each
-* 4 Drive Motors+Controllers = $130 to $200 each&#x20;
-* 4 Steering Motors = $130 to $200 each
-* 1 Gyro = $90 to $200 each
+* 4 Drive Motors+Controllers = $150 to $200 each&#x20;
+* 4 Steering Motors = $150 to $200 each
+* 1 Gyro = $200
 * Total: \~$2300 to \~$3600
 
 ### There are 4 vendors of modules
@@ -23,7 +23,7 @@
 * [Swerve Drive Specialties](https://www.swervedrivespecialties.com/collections/kits) ([AndyMark](https://www.andymark.com/categories/swerve-drive-specialties) is a distributor)
   * MK5n, MK5i
 * [The Thrifty Bot](https://www.thethriftybot.com/products/thrifty-swerve?variant=49288487010603)
-  * ThriftySwerve 2.0 (includes steering encoder)
+  * ThriftySwerve 2.0 and Narrow Swerve (includes steering encoder)
 * [West Coast Products](https://wcproducts.com/collections/gearboxes/Swerve)
   * Swerve X2, X2t, X2i, X2S\*, X2Si\*  (\*includes steering encoder)
 * All of the posted options are of good quality.
@@ -37,6 +37,8 @@
 ### Steering Encoders
 
 * Each module supports a specific set of encoders.
+* REV Robotics
+  * [REV Thru Bore Encoder](https://www.revrobotics.com/rev-11-3174/)
 * CTRE
   * [CANcoder](https://newsite.ctr-electronics.com/products/cancoder)
 * WCP
