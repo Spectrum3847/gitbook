@@ -6,6 +6,16 @@ description: >-
 
 # Illuminations: Young Team Guide
 
+## FIRST Ethos
+
+#### Gracious Professionalism
+
+Gracious Pressionalism is acting with integrity, kindness, and empathy. It's striving to be the best version of yourself and wanting everyone to have the best experience possible.&#x20;
+
+#### Coopertition
+
+Coopertition is the highest form of sportsmanship. It is when you compete hard to do your best, and you are trying to win, and at the same time, you want all other teams to do their best.  You provide them with the tools, parts, and knowledge they need to ensure they compete well.
+
 ## Team
 
 Students and Coaches
@@ -86,15 +96,17 @@ Shafts and Bearings
 
 Motors
 
-* We recommend standardizing on a single motor.
-* Either the [WCP Kraken x60](https://wcproducts.com/collections/motors-pneumatics/products/kraken) or the [REV Vortex+Spark Flex](https://www.revrobotics.com/rev-21-1652/) both are roughly $200 each.
+* We recommend standardizing on a single motor and controller type.
+* Either the [WCP Kraken x60](https://wcproducts.com/collections/motors-pneumatics/products/kraken) or [REV Vortex+Spark Flex](https://www.revrobotics.com/rev-21-1652/) are roughly $200 each. The [REV NEO 2.0](https://www.revrobotics.com/rev-21-1653/?searchid=0\&search_query=NEO+2.0) + [Spark Max](https://www.revrobotics.com/rev-11-2158/?searchid=4964352\&search_query=spark+max) is $155 each.
 * If you are on a budget, ask teams near you to donate old brushed motors and controllers to you and use them until you can buy Brushless motors. Don’t buy any Brushed motors.
 
 Motion
 
-* Gearboxes: [REV Max Planetary Gearboxes](https://www.revrobotics.com/rev-21-2100/)
-* Chain: #25 Chain
-* Belts/Pulleys: 5mm HTD Belts and Pulleys (You can 3D print pulleys)
+* For slow-moving, high-load/torque motion
+  * Gearboxes: [REV Max Planetary Gearboxes](https://www.revrobotics.com/rev-21-2100/)
+  * Chain & Sprocket: #25 Chain
+* For fast motion
+  * Belts/Pulleys: 5mm HTD Belts and Pulleys (You can 3D print pulleys)
 
 Wheels
 
@@ -119,6 +131,7 @@ Toolboxes
 
 * Having a toolbox you can take to events and have in your pit is very useful.
 * We have used [Tstak drawers](https://www.homedepot.com/p/DEWALT-TSTAK-IV-7-in-Stackable-18-Compartment-Double-Shallow-Drawer-Small-Parts-Tool-Storage-Organizer-DWST17804/204358931) for this, but many other brands exist as well.
+  * Packout, StackTech, etc.
 * You shouldn’t build a “Super Pit” until you are in a place where that efficiency will help your program.
 
 Organization
@@ -189,5 +202,7 @@ Regional Mentor Chats
 * Many regions/districts/countries have chat platforms that they use to communicate to each other. If you’re a mentor, ask your regional director, district organizer, or veteran teams in your area if they know of a community you can join.
 
 ## Learning More
+
+[Spectrum Resources](spectrum-resources.md)
 
 [Other Team's Resources](recommended-reading/)

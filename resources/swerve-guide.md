@@ -18,39 +18,33 @@
 
 ### There are 4 vendors of modules
 
-* [REV Swerve](https://www.revrobotics.com/rev-21-3005/)
-  * 3in MAXSwerve (includes steering encoder)
+* [REV Swerve](https://www.revrobotics.com/rev-21-3006/?searchid=4963771\&search_query=Easy)
+  * EasySwerve is the best module for teams on a budget.&#x20;
 * [Swerve Drive Specialties](https://www.swervedrivespecialties.com/collections/kits) ([AndyMark](https://www.andymark.com/categories/swerve-drive-specialties) is a distributor)
-  * MK4, MK4i, MK4n, or MK4c
+  * MK5n, MK5i
 * [The Thrifty Bot](https://www.thethriftybot.com/products/thrifty-swerve?variant=49288487010603)
   * ThriftySwerve 2.0 (includes steering encoder)
 * [West Coast Products](https://wcproducts.com/collections/gearboxes/Swerve)
   * Swerve X2, X2t, X2i, X2S\*, X2Si\*  (\*includes steering encoder)
-* All of the posted options are good quality.
+* All of the posted options are of good quality.
 * An SDS module can be purchased with the Drive Base Opt Voucher from AndyMark
 
 ### Gyro
 
 * CTRE
   * [Pigeon 2.0](https://newsite.ctr-electronics.com/products/pigeon-2)
-* AndyMark
-  * [navX2](https://www.andymark.com/products/navx2-mxp-robotics-navigation-sensor)
-* Redux Robotics
-  * [BORON Canandgyro](https://shop.reduxrobotics.com/boron-canandgyro/)
 
 ### Steering Encoders
 
-* Each module allows for a certain set of encoders to work with them.
+* Each module supports a specific set of encoders.
 * CTRE
   * [CANcoder](https://newsite.ctr-electronics.com/products/cancoder)
 * WCP
   * [WCP ThroughBore Encoder](https://wcproducts.com/products/wcp-sensors)
 * The Thrifty Bot
   * [Thrifty Absolute Magnetic Encoder](https://www.thethriftybot.com/products/thrifty-absolute-magnetic-encoder)
-* Redux Robotics
-  * [HELIUM Canandmag](https://shop.reduxrobotics.com/helium-canandmag/)
 
-## Other Things to consider
+## Other Things to Consider
 
 * Steering Encoder Zeroing
 * Module Protection (motors, encoders, etc)
