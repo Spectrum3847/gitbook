@@ -3,7 +3,8 @@
 ## Robot Name: X-Ray
 
 * [Events and Records](https://www.thebluealliance.com/team/3847/2015)
-* [Public CAD File](https://workbench.grabcad.com/workbench/projects/gcifIqynMSzz8TziLPFLepoH5b1FPsAWyOjXxiAb9BOnZl#/space/gcYDKLllCE9WYueXhSDr1asSsJ520hV69jLRsvA\_HRsNu6)
+* [Public CAD File](https://workbench.grabcad.com/workbench/projects/gcifIqynMSzz8TziLPFLepoH5b1FPsAWyOjXxiAb9BOnZl#/space/gcYDKLllCE9WYueXhSDr1asSsJ520hV69jLRsvA_HRsNu6)
+* [Public Code Repo](https://github.com/Spectrum3847/X-Ray)
 * [Season Build Blog](http://blog.spectrum3847.org/2015/01/day-1-change-is-here.html)
 * Chairman’s [Video](https://youtu.be/RnJMa09VNG4)
 * [Season Photo Gallery](https://photos.spectrum3847.org/2015-Competitions)

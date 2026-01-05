@@ -4,6 +4,7 @@
 
 * [Events and Records](https://www.thebluealliance.com/team/3847/2012)
 * [Public CAD File](https://grabcad.com/library/2012-3847-spectrum-1)
+* [Public Code Repo](https://github.com/Spectrum3847/Robot-Ultraviolet)
 * [Season Build Blog](http://blog.spectrum3847.org/2012/01/kickoff-2012.html)
 * [Robot Reveal](https://youtu.be/RjEysDheZDk)
 * Chairman’s [Video](https://youtu.be/bNlWIpCxjE4)

@@ -4,6 +4,7 @@
 
 * [Events and Records](https://www.thebluealliance.com/team/3847/2024)
 * [Public CAD File](https://2024cad.spectrum3847.org/)
+* [Public Code Repo](https://github.com/Spectrum3847/2024-Ultraviolet)
 * [Season Build Blog](https://www.chiefdelphi.com/t/spectrum-3847-build-blog-2024/447471?u=allengregoryiv)
 * [Season Photo Gallery](https://photos.spectrum3847.org/2024-FRC)
 * [Robot Design Review Video](https://youtu.be/I2ECY2pwLsQ?si=49QLLijCIaD3eaxq)
