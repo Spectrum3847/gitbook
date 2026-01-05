@@ -17,3 +17,5 @@
 * [Public CAD](https://cad.onshape.com/documents/804f0786df58e8d6bf7105f7/w/954e7c42f2c0a954e6ab7c13/e/3cf0e521ca7f7fa2fe855fee)
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% embed url="https://www.youtube.com/watch?t=1s&v=YWbxcjlY9JY" %}
