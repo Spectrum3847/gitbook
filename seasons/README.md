@@ -1,10 +1,10 @@
 # FRC Seasons
 
-## [2026 - Rebuilt](./#id-2026-rebuilt)
+## [2026 - Rebuilt](2026-rebuilt.md)
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-## [2025 - Reefscape](./#id-2025-reefscape)
+## [2025 - Reefscape](2025-reefscape.md)
 
 <div><figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
