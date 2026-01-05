@@ -1,40 +1,24 @@
 # FRC Seasons
 
+## [2026 - Rebuilt](./#id-2026-rebuilt)
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+## [2025 - Reefscape](./#id-2025-reefscape)
+
+<div><figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
 ## [2024 - Crescendo](seasons.md)
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (1).avif" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (2).avif" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (1).avif" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2).avif" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## [2023 - Charged Up](2023-charged-up.md)
 
-<div>
-
-<figure><img src="../.gitbook/assets/2023 X-Ray Robot.PNG" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image.avif" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/2023 X-Ray Robot.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image.avif" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## [2022 - Rapid React](2022-rapid-react.md)
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (3).avif" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (4).avif" alt="" width="300"><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (3).avif" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (4).avif" alt="" width="300"><figcaption></figcaption></figure></div>
 
 ## [2021 - Infinite Recharge @ Home](2021-infinite-recharge-home.md)
 
@@ -42,7 +26,7 @@
 
 ## [2020 - Infinite Recharge](2020-infinite-recharge.md)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="380"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="380"><figcaption></figcaption></figure>
 
 ## [2019 - Destination: Deep Space](2019-destination-deep-space.md)
 
@@ -58,7 +42,7 @@
 
 ## [2016 - Stronghold](2016-stronghold.md)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="356"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="356"><figcaption></figcaption></figure>
 
 ## [2015 - Recycle Rush](2015-recycle-rush.md)
 

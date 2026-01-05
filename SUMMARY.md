@@ -5,6 +5,8 @@
   * [Photon 8515](spectrum/photon-8515.md)
   * [Sponsors](spectrum/sponsors.md)
 * [FRC Seasons](seasons/README.md)
+  * [2026 - Rebuilt](seasons/2026-rebuilt.md)
+  * [2025 - Reefscape](seasons/2025-reefscape.md)
   * [2024 - Crescendo ](seasons/seasons.md)
   * [2023 - Charged Up](seasons/2023-charged-up.md)
   * [2022 - Rapid React](seasons/2022-rapid-react.md)
