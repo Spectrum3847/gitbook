@@ -9,8 +9,8 @@
 * [FRC CAD Collection ](robot-explorations/frc-cad-collection.md)- [cadcollection.spectrum3847.org](http://cadcollection.spectrum3847.org) - [submission form](https://forms.gle/5wji6FbuZWPc4Fzn6) - [CD post](https://www.chiefdelphi.com/t/frc-cad-collection-spectrum-3847/367957)
 * Robot Mechanism Library - [mechanisms.spectrum3847.org](http://mechanisms.spectrum3847.org/)
   * Library of Robot Photos to get inspiration on future designs
-* Spectrum Robot Design Sheet - [sheet.Spectrum3847.org](http://sheet.spectrum3847.org)
-* Protopipe - [protopipe.Spectrum3847.org](http://protopipe.spectrum3847.org)
+* [Spectrum Robot Design Sheet](https://docs.google.com/spreadsheets/d/1KQ8EEO-hbHlANP7YJH5DKfWhjgHB5Rvui8P25d1Eo10/edit?gid=1821598417#gid=1821598417)
+* [Spectrum Protopipe](https://docs.google.com/document/d/15Pi6qQt_WJx4HBOPCWf5xZ7k2VCiwzgDzia0TgsRank/edit?tab=t.0)
 * Design Review Videos - [reviews.spectrum3847.org](http://protopipe.spectrum3847.org)
 * Design Explorations Videos - [explorations.spectrum3847.org](http://explorations.spectrum3847.org)
 * Spectrum 3847 GrabCAD Models - [grabcad.spectrum3847.org](http://grabcad.spectrum3847.org)
