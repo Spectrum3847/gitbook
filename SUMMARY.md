@@ -28,7 +28,7 @@
   * [Conference Presentations](resources/conference-presentations.md)
   * [FIRST $2000 Purchase Guide](resources/first-usd2000-purchase-guide.md)
   * [Swerve Guide](resources/swerve-guide.md)
-  * [Spectrum Cart 2.0](resources/spectrum-cart-2.0.md)
+  * [Spectrum Cart 3.0](resources/spectrum-cart-3.0.md)
   * [Inexpensive Build Tips](resources/inexpensive-build-tips.md)
   * [Spectrum Resources](resources/spectrum-resources.md)
   * [Other Team's Resources](resources/recommended-reading/README.md)

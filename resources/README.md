@@ -14,8 +14,8 @@ Spectrum has created and collected hundreds of resources to help FRC teams.
 [swerve-guide.md](swerve-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="spectrum-cart-2.0.md" %}
-[spectrum-cart-2.0.md](spectrum-cart-2.0.md)
+{% content-ref url="spectrum-cart-3.0.md" %}
+[spectrum-cart-3.0.md](spectrum-cart-3.0.md)
 {% endcontent-ref %}
 
 {% content-ref url="robot-explorations/frc-cad-collection.md" %}
