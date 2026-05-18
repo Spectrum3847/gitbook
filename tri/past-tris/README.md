@@ -1,5 +1,9 @@
 # Past TRIs
 
+## 2025 Texas Robotics Invitational
+
+#### [The Blue Alliance](https://www.thebluealliance.com/event/2025txhou1) - [Photo Gallery](https://photos.spectrum3847.org/2025-FRC/TRI-1) - [Youtube Playlist](https://www.youtube.com/watch?v=XnbADY81MZE\&list=PLTocT0DivsNlybFMlq2VRn-Lrxe_ebN2h) - [Rule Changes](2025-tri-rule-changes.md)&#x20;
+
 ## 2024 Texas Robotics Invitational
 
 #### [The Blue Alliance](https://www.thebluealliance.com/event/2024txri) - [Photo Gallery](https://photos.spectrum3847.org/2024-FRC/2024TRI) - [Youtube Playlist](https://www.youtube.com/watch?v=d1XDPXpqMH4\&t=34928s) - [Rule Changes](2024-tri-rule-changes.md)&#x20;

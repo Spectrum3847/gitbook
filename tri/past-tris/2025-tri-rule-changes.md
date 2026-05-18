@@ -55,7 +55,7 @@ This rule is never enforced, and so shouldn't be in the rules
 
 There is now a PROCESSOR PATHWAY that connects an alliance’s PROCESSOR AREA and ALLIANCE AREA Marked by a 2” Gaffers tape line.  Only HUMAN PLAYERS may use this pathway and must make a reasonable effort to stay on the line when moving between the 2 zones.&#x20;
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/REEFSCAPE FIELD (FE-2025).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/REEFSCAPE FIELD (FE-2025).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 [Field Cad](https://go.spectrum3847.org/TRI25Field)

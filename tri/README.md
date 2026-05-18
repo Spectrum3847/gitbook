@@ -4,23 +4,23 @@
 
 Texas Robotics Invitational (TRI) is an off-season event in Houston, Texas designed to provide more experience in FRC. TRI is planned and organized by Spectrum FRC#3847 with the help of Houston area teams, and volunteers.
 
-## 2025 Texas Robotics Invitational
+## 2026 Texas Robotics Invitational
 
-[Team Application](https://forms.gle/bP3KumX8oLKR9Hxr9)
+[Team Application](https://docs.google.com/forms/d/e/1FAIpQLSd11HZM8tpfcokQiiEevPJTo0JVIhKaf11i9XrwxV_EO0pRGw/viewform)
 
-[Volunteer Application](https://forms.gle/TXgsJjQxaNNmoKiA8)
+[Volunteer Application](https://docs.google.com/forms/d/e/1FAIpQLSds6ZhxBvxRVEXdcsd1gHUiWqm1KmrZoO7vC_OO5XGdWSmeuQ/viewform?usp=send_form)
 
 
 
-{% content-ref url="2025-tri-rule-changes.md" %}
-[2025-tri-rule-changes.md](2025-tri-rule-changes.md)
+{% content-ref url="2026-tri-rule-changes.md" %}
+[2026-tri-rule-changes.md](2026-tri-rule-changes.md)
 {% endcontent-ref %}
 
 ### **Dates:**
 
-* **Setup and Load-in: Thursday, June 26th**&#x20;
-* **Girls Drive and Qualification Matches: Friday, June 27th**
-* **Qualification Matches and Playoffs: Saturday, June 28th**
+* **Setup and Load-in: Thursday, June 25th**&#x20;
+* **Girls Drive and Qualification Matches: Friday, June 26th**
+* **Qualification Matches and Playoffs: Saturday, June 27th**
 
 ### Where
 
