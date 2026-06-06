@@ -6,7 +6,7 @@
 * [Suggested FRC Purchase Lists](https://docs.google.com/spreadsheets/d/1YphlEjvd_iZDxfXlK5U4N8X3P6jiRBvNsinzWJ3GT6w/edit#gid=0) - Each tab has different combinations of vendors
 * Illuminations 2022 FRC Young/Rookie Team Guide - [Illuminations.Spectrum3847.org](http://illuminations.spectrum3847.org)
 * Spectrum Solidworks CAD Library - [cad.spectrum3847.org](http://cad.spectrum3847.org) (No Longer Maintained)
-* [FRC CAD Collection ](robot-explorations/frc-cad-collection.md)- [cadcollection.spectrum3847.org](http://cadcollection.spectrum3847.org) - [submission form](https://forms.gle/5wji6FbuZWPc4Fzn6) - [CD post](https://www.chiefdelphi.com/t/frc-cad-collection-spectrum-3847/367957)
+* [FRC CAD Collection ](frc-cad-collection.md)- [cadcollection.spectrum3847.org](http://cadcollection.spectrum3847.org) - [submission form](https://forms.gle/5wji6FbuZWPc4Fzn6) - [CD post](https://www.chiefdelphi.com/t/frc-cad-collection-spectrum-3847/367957)
 * Robot Mechanism Library - [mechanisms.spectrum3847.org](http://mechanisms.spectrum3847.org/)
   * Library of Robot Photos to get inspiration on future designs
 * [Spectrum Robot Design Sheet](https://docs.google.com/spreadsheets/d/1KQ8EEO-hbHlANP7YJH5DKfWhjgHB5Rvui8P25d1Eo10/edit?gid=1821598417#gid=1821598417)
